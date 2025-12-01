@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=LPDDR4_DQ0_A Pin=U??-B2
+Removed Pin From Net: NetName=LPDDR4_DQ7_A Pin=U??-B4
+Removed Pin From Net: NetName=LPDDR4_DQ15_A Pin=U??-B9
+Removed Pin From Net: NetName=LPDDR4_DQ8_A Pin=U??-B11
+Removed Pin From Net: NetName=LPDDR4_DQ1_A Pin=U??-C2
+Removed Pin From Net: NetName=LPDDR4_DM0_A Pin=U??-C3
+Removed Pin From Net: NetName=LPDDR4_DQ6_A Pin=U??-C4
+Removed Pin From Net: NetName=LPDDR4_DQ14_A Pin=U??-C9
+Removed Pin From Net: NetName=LPDDR4_DM1_A Pin=U??-C10
+Removed Pin From Net: NetName=LPDDR4_DQ9_A Pin=U??-C11
+Removed Pin From Net: NetName=LPDDR4_DQS0P_A Pin=U??-D3
+Removed Pin From Net: NetName=LPDDR4_DQS1P_A Pin=U??-D10
+Removed Pin From Net: NetName=LPDDR4_DQ2_A Pin=U??-E2
+Removed Pin From Net: NetName=LPDDR4_DQS0N_A Pin=U??-E3
+Removed Pin From Net: NetName=LPDDR4_DQ5_A Pin=U??-E4
+Removed Pin From Net: NetName=LPDDR4_DQ13_A Pin=U??-E9
+Removed Pin From Net: NetName=LPDDR4_DQS1N_A Pin=U??-E10
+Removed Pin From Net: NetName=LPDDR4_DQ10_A Pin=U??-E11
+Removed Pin From Net: NetName=LPDDR4_DQ3_A Pin=U??-F2
+Removed Pin From Net: NetName=LPDDR4_DQ4_A Pin=U??-F4
+Removed Pin From Net: NetName=LPDDR4_DQ12_A Pin=U??-F9
+Removed Pin From Net: NetName=LPDDR4_DQ11_A Pin=U??-F11
+Change Component Designator: OldDesignator=U?? NewDesignator=U1
+Added Component: Designator=U2(FBGA-200_L15.0-W10.0-BL_H9HCNNNBKUMLXR)
+Add component (AddParameter): Name = "Symbol"; Value = "H9HCNNNBKUMLXR-NEE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LPDDR4_DQ0_B Pin=U2-AA2
+Added Pin To Net: NetName=LPDDR4_DQ7_B Pin=U2-AA4
+Added Pin To Net: NetName=LPDDR4_DQ0_A Pin=U2-B2
+Added Pin To Net: NetName=LPDDR4_DQ7_A Pin=U2-B4
+Added Pin To Net: NetName=LPDDR4_DQ15_A Pin=U2-B9
+Added Pin To Net: NetName=LPDDR4_DQ8_A Pin=U2-B11
+Added Pin To Net: NetName=LPDDR4_DQ1_A Pin=U2-C2
+Added Pin To Net: NetName=LPDDR4_DM0_A Pin=U2-C3
+Added Pin To Net: NetName=LPDDR4_DQ6_A Pin=U2-C4
+Added Pin To Net: NetName=LPDDR4_DQ14_A Pin=U2-C9
+Added Pin To Net: NetName=LPDDR4_DM1_A Pin=U2-C10
+Added Pin To Net: NetName=LPDDR4_DQ9_A Pin=U2-C11
+Added Pin To Net: NetName=LPDDR4_DQS0P_A Pin=U2-D3
+Added Pin To Net: NetName=LPDDR4_DQS1P_A Pin=U2-D10
+Added Pin To Net: NetName=LPDDR4_DQ2_A Pin=U2-E2
+Added Pin To Net: NetName=LPDDR4_DQS0N_A Pin=U2-E3
+Added Pin To Net: NetName=LPDDR4_DQ5_A Pin=U2-E4
+Added Pin To Net: NetName=LPDDR4_DQ13_A Pin=U2-E9
+Added Pin To Net: NetName=LPDDR4_DQS1N_A Pin=U2-E10
+Added Pin To Net: NetName=LPDDR4_DQ10_A Pin=U2-E11
+Added Pin To Net: NetName=LPDDR4_DQ3_A Pin=U2-F2
+Added Pin To Net: NetName=LPDDR4_DQ4_A Pin=U2-F4
+Added Pin To Net: NetName=LPDDR4_DQ12_A Pin=U2-F9
+Added Pin To Net: NetName=LPDDR4_DQ11_A Pin=U2-F11
+Added Pin To Net: NetName=LPDDR4_DQ3_B Pin=U2-U2
+Added Pin To Net: NetName=LPDDR4_DQ4_B Pin=U2-U4
+Added Pin To Net: NetName=LPDDR4_DQ2_B Pin=U2-V2
+Added Pin To Net: NetName=LPDDR4_DQS0N_B Pin=U2-V3
+Added Pin To Net: NetName=LPDDR4_DQ5_B Pin=U2-V4
+Added Pin To Net: NetName=LPDDR4_DQS0P_B Pin=U2-W3
+Added Pin To Net: NetName=LPDDR4_DQ1_B Pin=U2-Y2
+Added Pin To Net: NetName=LPDDR4_DM0_B Pin=U2-Y3
+Added Pin To Net: NetName=LPDDR4_DQ6_B Pin=U2-Y4
+Added Member To Class: ClassName=RK3566_DDR_PHY Member=Component U1 RK3566
+Added Member To Class: ClassName=LPDDR4 Member=Component U2 H9HCNNNBKUMLXR-NEE

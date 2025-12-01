@@ -1,0 +1,81 @@
+Added Pin To Net: NetName=LPDDR4_A0_A Pin=U1-C2
+Added Pin To Net: NetName=LPDDR4_A0_A Pin=U2-H2
+Added Net: Name=LPDDR4_A0_A
+Added Pin To Net: NetName=LPDDR4_A0_B Pin=U1-A9
+Added Pin To Net: NetName=LPDDR4_A0_B Pin=U2-R2
+Added Net: Name=LPDDR4_A0_B
+Added Pin To Net: NetName=LPDDR4_A1_A Pin=U1-C1
+Added Pin To Net: NetName=LPDDR4_A1_A Pin=U2-J2
+Added Net: Name=LPDDR4_A1_A
+Added Pin To Net: NetName=LPDDR4_A1_B Pin=U1-B9
+Added Pin To Net: NetName=LPDDR4_A1_B Pin=U2-P2
+Added Net: Name=LPDDR4_A1_B
+Added Pin To Net: NetName=LPDDR4_A2_A Pin=U1-1C1
+Added Pin To Net: NetName=LPDDR4_A2_A Pin=U2-H9
+Added Net: Name=LPDDR4_A2_A
+Added Pin To Net: NetName=LPDDR4_A2_B Pin=U1-1B7
+Added Pin To Net: NetName=LPDDR4_A2_B Pin=U2-R9
+Added Net: Name=LPDDR4_A2_B
+Added Pin To Net: NetName=LPDDR4_A3_A Pin=U1-1B3
+Added Pin To Net: NetName=LPDDR4_A3_A Pin=U2-H10
+Added Net: Name=LPDDR4_A3_A
+Added Pin To Net: NetName=LPDDR4_A3_B Pin=U1-1B6
+Added Pin To Net: NetName=LPDDR4_A3_B Pin=U2-R10
+Added Net: Name=LPDDR4_A3_B
+Added Pin To Net: NetName=LPDDR4_A4_A Pin=U1-1B1
+Added Pin To Net: NetName=LPDDR4_A4_A Pin=U2-H11
+Added Net: Name=LPDDR4_A4_A
+Added Pin To Net: NetName=LPDDR4_A4_B Pin=U1-1A6
+Added Pin To Net: NetName=LPDDR4_A4_B Pin=U2-R11
+Added Net: Name=LPDDR4_A4_B
+Added Pin To Net: NetName=LPDDR4_A5_A Pin=U1-1A1
+Added Pin To Net: NetName=LPDDR4_A5_A Pin=U2-J11
+Added Net: Name=LPDDR4_A5_A
+Added Pin To Net: NetName=LPDDR4_A5_B Pin=U1-B8
+Added Pin To Net: NetName=LPDDR4_A5_B Pin=U2-P11
+Added Net: Name=LPDDR4_A5_B
+Added Pin To Net: NetName=LPDDR4_CKE0_A Pin=U1-B4
+Added Pin To Net: NetName=LPDDR4_CKE0_A Pin=U2-J4
+Added Net: Name=LPDDR4_CKE0_A
+Added Pin To Net: NetName=LPDDR4_CKE0_B Pin=U1-1A3
+Added Pin To Net: NetName=LPDDR4_CKE0_B Pin=U2-P4
+Added Net: Name=LPDDR4_CKE0_B
+Added Pin To Net: NetName=LPDDR4_CKE1_A Pin=U1-1C3
+Added Pin To Net: NetName=LPDDR4_CKE1_A Pin=U2-J5
+Added Net: Name=LPDDR4_CKE1_A
+Added Pin To Net: NetName=LPDDR4_CKE1_B Pin=U1-1A2
+Added Pin To Net: NetName=LPDDR4_CKE1_B Pin=U2-P5
+Added Net: Name=LPDDR4_CKE1_B
+Added Pin To Net: NetName=LPDDR4_CLKN_A Pin=U1-B5
+Added Pin To Net: NetName=LPDDR4_CLKN_A Pin=U2-J9
+Added Net: Name=LPDDR4_CLKN_A
+Added Pin To Net: NetName=LPDDR4_CLKN_B Pin=U1-B7
+Added Pin To Net: NetName=LPDDR4_CLKN_B Pin=U2-P9
+Added Net: Name=LPDDR4_CLKN_B
+Added Pin To Net: NetName=LPDDR4_CLKP_A Pin=U1-A5
+Added Pin To Net: NetName=LPDDR4_CLKP_A Pin=U2-J8
+Added Net: Name=LPDDR4_CLKP_A
+Added Pin To Net: NetName=LPDDR4_CLKP_B Pin=U1-A7
+Added Pin To Net: NetName=LPDDR4_CLKP_B Pin=U2-P8
+Added Net: Name=LPDDR4_CLKP_B
+Added Pin To Net: NetName=LPDDR4_CS0n_A Pin=U1-B3
+Added Pin To Net: NetName=LPDDR4_CS0n_A Pin=U2-H4
+Added Net: Name=LPDDR4_CS0n_A
+Added Pin To Net: NetName=LPDDR4_CS0n_B Pin=U1-1B5
+Added Pin To Net: NetName=LPDDR4_CS0n_B Pin=U2-R4
+Added Net: Name=LPDDR4_CS0n_B
+Added Pin To Net: NetName=LPDDR4_CS1n_A Pin=U1-A3
+Added Pin To Net: NetName=LPDDR4_CS1n_A Pin=U2-H3
+Added Net: Name=LPDDR4_CS1n_A
+Added Pin To Net: NetName=LPDDR4_CS1n_B Pin=U1-1A5
+Added Pin To Net: NetName=LPDDR4_CS1n_B Pin=U2-R3
+Added Net: Name=LPDDR4_CS1n_B
+Added Pin To Net: NetName=LPDDR4_ODT0_CA_A Pin=U1-E2
+Added Pin To Net: NetName=LPDDR4_ODT0_CA_A Pin=U2-G2
+Added Net: Name=LPDDR4_ODT0_CA_A
+Added Pin To Net: NetName=LPDDR4_ODT0_CA_B Pin=U1-A10
+Added Pin To Net: NetName=LPDDR4_ODT0_CA_B Pin=U2-T2
+Added Net: Name=LPDDR4_ODT0_CA_B
+Added Pin To Net: NetName=LPDDR4_RESETN Pin=U1-1C7
+Added Pin To Net: NetName=LPDDR4_RESETN Pin=U2-T11
+Added Net: Name=LPDDR4_RESETN
