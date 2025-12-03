@@ -1,0 +1,50 @@
+Added Component: Designator=R10(R0402)
+Added Component: Designator=U13(QFN-44_L12.0-W12.0-P0.90-TL_AP6212)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Antenna Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/AP6212/2941698.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "On-board PCB antenna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPAK(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power"; Value = "16dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receive  Current"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Send  Current"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "-90dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "QFN-44(12x12)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2798300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AP6212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized IC / Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wireless Standard"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U14(BGA-565_L15.5-W14.4-P0.40_RK3566_1)
+Add component (AddParameter): Name = "Symbol"; Value = "RK3566"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U14-B37
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=SDMMC1_CLK Pin=R10-2
+Added Pin To Net: NetName=SDMMC1_CLK Pin=U13-17
+Added Net: Name=SDMMC1_CLK
+Added Pin To Net: NetName=SDMMC1_CMD Pin=U13-16
+Added Pin To Net: NetName=SDMMC1_CMD Pin=U14-B35
+Added Net: Name=SDMMC1_CMD
+Added Pin To Net: NetName=SDMMC1_D0 Pin=U13-18
+Added Pin To Net: NetName=SDMMC1_D0 Pin=U14-1C19
+Added Net: Name=SDMMC1_D0
+Added Pin To Net: NetName=SDMMC1_D1 Pin=U13-19
+Added Pin To Net: NetName=SDMMC1_D1 Pin=U14-1E18
+Added Net: Name=SDMMC1_D1
+Added Pin To Net: NetName=SDMMC1_D2 Pin=U13-14
+Added Pin To Net: NetName=SDMMC1_D2 Pin=U14-1D18
+Added Net: Name=SDMMC1_D2
+Added Pin To Net: NetName=SDMMC1_D3 Pin=U13-15
+Added Pin To Net: NetName=SDMMC1_D3 Pin=U14-1A20
+Added Net: Name=SDMMC1_D3
+Add Class: Class already exists: 2
+Add Class: Class already exists: 9

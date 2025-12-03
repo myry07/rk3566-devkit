@@ -1,0 +1,50 @@
+Added Component: Designator=R1(R0402)
+Added Component: Designator=R2(R0402)
+Added Component: Designator=U4(BGA-565_L15.5-W14.4-P0.40_RK3566_1)
+Add component (AddParameter): Name = "Symbol"; Value = "RK3566"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EMMC_CLKOUT/FLASH_DQS Pin=R2-1
+Added Pin To Net: NetName=EMMC_CLKOUT/FLASH_DQS Pin=U3-M6
+Added Net: Name=EMMC_CLKOUT/FLASH_DQS
+Added Pin To Net: NetName=EMMC_CMD Pin=U3-M5
+Added Pin To Net: NetName=EMMC_CMD Pin=U4-A27
+Added Net: Name=EMMC_CMD
+Added Pin To Net: NetName=EMMC_D0/FLASH_D0 Pin=U3-A3
+Added Pin To Net: NetName=EMMC_D0/FLASH_D0 Pin=U4-A32
+Added Net: Name=EMMC_D0/FLASH_D0
+Added Pin To Net: NetName=EMMC_D1/FLASH_D1 Pin=U3-A4
+Added Pin To Net: NetName=EMMC_D1/FLASH_D1 Pin=U4-B27
+Added Net: Name=EMMC_D1/FLASH_D1
+Added Pin To Net: NetName=EMMC_D2/FLASH_D2 Pin=U3-A5
+Added Pin To Net: NetName=EMMC_D2/FLASH_D2 Pin=U4-B32
+Added Net: Name=EMMC_D2/FLASH_D2
+Added Pin To Net: NetName=EMMC_D3/FLASH_D3 Pin=U3-B2
+Added Pin To Net: NetName=EMMC_D3/FLASH_D3 Pin=U4-B29
+Added Net: Name=EMMC_D3/FLASH_D3
+Added Pin To Net: NetName=EMMC_D4/FLASH_D4 Pin=U3-B3
+Added Pin To Net: NetName=EMMC_D4/FLASH_D4 Pin=U4-B33
+Added Net: Name=EMMC_D4/FLASH_D4
+Added Pin To Net: NetName=EMMC_D5/FLASH_D5 Pin=U3-B4
+Added Pin To Net: NetName=EMMC_D5/FLASH_D5 Pin=U4-A30
+Added Net: Name=EMMC_D5/FLASH_D5
+Added Pin To Net: NetName=EMMC_D6/FLASH_D6 Pin=U3-B5
+Added Pin To Net: NetName=EMMC_D6/FLASH_D6 Pin=U4-B30
+Added Net: Name=EMMC_D6/FLASH_D6
+Added Pin To Net: NetName=EMMC_D7/FLASH_D7 Pin=U3-B6
+Added Pin To Net: NetName=EMMC_D7/FLASH_D7 Pin=U4-A33
+Added Net: Name=EMMC_D7/FLASH_D7
+Added Pin To Net: NetName=EMMC_DATA_STROBE/FLASH_CLE Pin=R1-1
+Added Pin To Net: NetName=EMMC_DATA_STROBE/FLASH_CLE Pin=U4-1A16
+Added Net: Name=EMMC_DATA_STROBE/FLASH_CLE
+Added Pin To Net: NetName=EMMC_DATA_STROBE Pin=R1-2
+Added Pin To Net: NetName=EMMC_DATA_STROBE Pin=U3-H5
+Added Net: Name=EMMC_DATA_STROBE
+Added Pin To Net: NetName=EMMC_RSTN Pin=U3-K5
+Added Pin To Net: NetName=EMMC_RSTN Pin=U4-1B16
+Added Net: Name=EMMC_RSTN
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U4-A29
+Added Net: Name=NetR2_2
+Change Class Name : Old Net Name=EMMC New Net Name=9
+Change Class Name : Old Net Name=RK3566_DDR_PHY New Net Name=1
+Added Class: Name=2
+Added Class: Name=8

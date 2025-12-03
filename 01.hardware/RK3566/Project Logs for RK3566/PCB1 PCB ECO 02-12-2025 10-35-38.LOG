@@ -1,0 +1,6 @@
+Change Class Name : Old Net Name=1 New Net Name=RK_DDR
+Change Class Name : Old Net Name=2 New Net Name=RK_FLASH_SD
+Change Class Name : Old Net Name=8 New Net Name=DDR
+Change Class Name : Old Net Name=9 New Net Name=FLASH_SD
+Added Class: Name=RK_SARADC_GPIO
+Added Class: Name=Wi-Fi_BT

@@ -1,0 +1,3 @@
+Added Component: Designator=U??(BGA-565_L15.5-W14.4-P0.40_RK3566_1)
+Add component (AddParameter): Name = "Symbol"; Value = "RK3566"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=RK3566_DDR_PHY Member=Component U?? RK3566

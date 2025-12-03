@@ -1,0 +1,7 @@
+Added Component: Designator=U??(FBGA-200_L15.0-W10.0-BL_H9HCNNNBKUMLXR)
+Add component (AddParameter): Name = "Symbol"; Value = "H9HCNNNBKUMLXR-NEE"; VariantName = "[No Variations]"
+Added Component: Designator=U??(FBGA-200_L15.0-W10.0-BL_H9HCNNNBKUMLXR)
+Add component (AddParameter): Name = "Symbol"; Value = "H9HCNNNBKUMLXR-NEE"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=RK3566_DDR_PHY Member=Component U1 RK3566
+Added Member To Class: ClassName=LPDDR4 Member=Component U?? H9HCNNNBKUMLXR-NEE
+Added Member To Class: ClassName=LPDDR4 Member=Component U?? H9HCNNNBKUMLXR-NEE

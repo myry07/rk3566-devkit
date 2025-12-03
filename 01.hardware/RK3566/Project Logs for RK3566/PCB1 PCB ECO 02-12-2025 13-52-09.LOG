@@ -1,0 +1,236 @@
+Added Component: Designator=C1(C0402)
+Added Component: Designator=CN1(HDMI-SMD_KH-HDMI-19P-CU)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "HDMI-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211208/D47DE7411E98B8CA58BDDFA754B04DEC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KH-HDMI-19P-Cu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Mother"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "KH-HDMI-19P-Cu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "kinghelm(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KH-HDMI-19P-Cu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Horizontal attachment"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "19P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C709361"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KH-HDMI-19P-CU"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DFN2510-10_L2.5-W1.0-P0.50-BL)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5344D-10/TR"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DFN2510-10_L2.5-W1.0-P0.50-BL)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5344D-10/TR"; VariantName = "[No Variations]"
+Added Component: Designator=D3(X1-DFN1006-2_L1.0-W0.6-RD)
+Add component (AddParameter): Name = "Symbol"; Value = "TPESD5341N"; VariantName = "[No Variations]"
+Added Component: Designator=D4(X1-DFN1006-2_L1.0-W0.6-RD)
+Add component (AddParameter): Name = "Symbol"; Value = "TPESD5341N"; VariantName = "[No Variations]"
+Added Component: Designator=D5(X1-DFN1006-2_L1.0-W0.6-RD)
+Add component (AddParameter): Name = "Symbol"; Value = "TPESD5341N"; VariantName = "[No Variations]"
+Added Component: Designator=D6(X1-DFN1006-2_L1.0-W0.6-RD)
+Add component (AddParameter): Name = "Symbol"; Value = "TPESD5341N"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SOD-323_L1.8-W1.3-LS2.5-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Rectified"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/1N5819WS/213850.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "1N5819WS_C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??:40V ??:1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hottech(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Non-Repetitive Peak Forward Surge Current"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse(Vr)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward(Vf@If)"; Value = "600mV@1A"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-3_L2.9-W1.3-P1.90-LS2.3-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "2SK3018_C194460"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3_L2.9-W1.3-P1.90-LS2.3-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "2SK3018_C194460"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23-3_L2.9-W1.3-P1.90-LS2.3-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "2SK3018_C194460"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0402)
+Added Component: Designator=R12(R0402)
+Added Component: Designator=R13(R0402)
+Added Component: Designator=R14(R0402)
+Added Component: Designator=R15(R0402)
+Added Component: Designator=R16(R0402)
+Added Component: Designator=R17(R0402)
+Added Component: Designator=R18(R0402)
+Added Component: Designator=R19(R0201)
+Added Component: Designator=R20(R0201)
+Added Component: Designator=R21(R0201)
+Added Component: Designator=R22(R0201)
+Added Component: Designator=R23(R0201)
+Added Component: Designator=R24(R0201)
+Added Component: Designator=R25(R0201)
+Added Component: Designator=R26(R0201)
+Added Component: Designator=R27(R0402)
+Added Component: Designator=U15(BGA-565_L15.5-W14.4-P0.40_RK3566_1)
+Add component (AddParameter): Name = "Symbol"; Value = "RK3566"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-8
+Added Pin To Net: NetName=GND Pin=CN1-11
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D1-8
+Added Pin To Net: NetName=GND Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D2-8
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=HDMI_TX0N_PORT Pin=CN1-9
+Added Pin To Net: NetName=HDMI_TX0N_PORT Pin=D2-4
+Added Pin To Net: NetName=HDMI_TX0N_PORT Pin=D2-7
+Added Pin To Net: NetName=HDMI_TX0N_PORT Pin=R24-1
+Added Net: Name=HDMI_TX0N_PORT
+Added Pin To Net: NetName=HDMI_TX0P_PORT Pin=CN1-7
+Added Pin To Net: NetName=HDMI_TX0P_PORT Pin=D2-5
+Added Pin To Net: NetName=HDMI_TX0P_PORT Pin=D2-6
+Added Pin To Net: NetName=HDMI_TX0P_PORT Pin=R23-1
+Added Net: Name=HDMI_TX0P_PORT
+Added Pin To Net: NetName=HDMI_TX1N_PORT Pin=CN1-6
+Added Pin To Net: NetName=HDMI_TX1N_PORT Pin=D1-1
+Added Pin To Net: NetName=HDMI_TX1N_PORT Pin=D1-10
+Added Pin To Net: NetName=HDMI_TX1N_PORT Pin=R22-1
+Added Net: Name=HDMI_TX1N_PORT
+Added Pin To Net: NetName=HDMI_TX1P_PORT Pin=CN1-4
+Added Pin To Net: NetName=HDMI_TX1P_PORT Pin=D1-2
+Added Pin To Net: NetName=HDMI_TX1P_PORT Pin=D1-9
+Added Pin To Net: NetName=HDMI_TX1P_PORT Pin=R21-1
+Added Net: Name=HDMI_TX1P_PORT
+Added Pin To Net: NetName=HDMI_TX2N_PORT Pin=CN1-3
+Added Pin To Net: NetName=HDMI_TX2N_PORT Pin=D1-4
+Added Pin To Net: NetName=HDMI_TX2N_PORT Pin=D1-7
+Added Pin To Net: NetName=HDMI_TX2N_PORT Pin=R20-1
+Added Net: Name=HDMI_TX2N_PORT
+Added Pin To Net: NetName=HDMI_TX2P_PORT Pin=CN1-1
+Added Pin To Net: NetName=HDMI_TX2P_PORT Pin=D1-5
+Added Pin To Net: NetName=HDMI_TX2P_PORT Pin=D1-6
+Added Pin To Net: NetName=HDMI_TX2P_PORT Pin=R19-1
+Added Net: Name=HDMI_TX2P_PORT
+Added Pin To Net: NetName=HDMI_TX_CEC_PORT Pin=CN1-13
+Added Pin To Net: NetName=HDMI_TX_CEC_PORT Pin=D6-1
+Added Pin To Net: NetName=HDMI_TX_CEC_PORT Pin=Q1-3
+Added Pin To Net: NetName=HDMI_TX_CEC_PORT Pin=R13-1
+Added Net: Name=HDMI_TX_CEC_PORT
+Added Pin To Net: NetName=HDMI_TX_HPD_PORT Pin=CN1-19
+Added Pin To Net: NetName=HDMI_TX_HPD_PORT Pin=D3-1
+Added Pin To Net: NetName=HDMI_TX_HPD_PORT Pin=R11-2
+Added Pin To Net: NetName=HDMI_TX_HPD_PORT Pin=R12-1
+Added Net: Name=HDMI_TX_HPD_PORT
+Added Pin To Net: NetName=HDMI_TX_HPDIN Pin=C1-2
+Added Pin To Net: NetName=HDMI_TX_HPDIN Pin=U15-1V17
+Added Net: Name=HDMI_TX_HPDIN
+Add Net: Net with name "HDMI_TX_HPDIN" already exists
+Added Pin To Net: NetName=HDMI_TXCLKN_PORT Pin=CN1-12
+Added Pin To Net: NetName=HDMI_TXCLKN_PORT Pin=D2-1
+Added Pin To Net: NetName=HDMI_TXCLKN_PORT Pin=D2-10
+Added Pin To Net: NetName=HDMI_TXCLKN_PORT Pin=R26-1
+Added Net: Name=HDMI_TXCLKN_PORT
+Added Pin To Net: NetName=HDMI_TXCLKP_PORT Pin=CN1-10
+Added Pin To Net: NetName=HDMI_TXCLKP_PORT Pin=D2-2
+Added Pin To Net: NetName=HDMI_TXCLKP_PORT Pin=D2-9
+Added Pin To Net: NetName=HDMI_TXCLKP_PORT Pin=R25-1
+Added Net: Name=HDMI_TXCLKP_PORT
+Added Pin To Net: NetName=HDMI_TXDDC_SCL_PORT Pin=CN1-15
+Added Pin To Net: NetName=HDMI_TXDDC_SCL_PORT Pin=D5-1
+Added Pin To Net: NetName=HDMI_TXDDC_SCL_PORT Pin=Q2-3
+Added Pin To Net: NetName=HDMI_TXDDC_SCL_PORT Pin=R15-2
+Added Net: Name=HDMI_TXDDC_SCL_PORT
+Added Pin To Net: NetName=HDMI_TXDDC_SDA_PORT Pin=CN1-16
+Added Pin To Net: NetName=HDMI_TXDDC_SDA_PORT Pin=D4-1
+Added Pin To Net: NetName=HDMI_TXDDC_SDA_PORT Pin=Q3-3
+Added Pin To Net: NetName=HDMI_TXDDC_SDA_PORT Pin=R17-2
+Added Net: Name=HDMI_TXDDC_SDA_PORT
+Added Pin To Net: NetName=HDMITX_CEC_M0 Pin=Q1-2
+Added Pin To Net: NetName=HDMITX_CEC_M0 Pin=R13-2
+Added Pin To Net: NetName=HDMITX_CEC_M0 Pin=R14-1
+Added Pin To Net: NetName=HDMITX_CEC_M0 Pin=U15-1V5
+Added Net: Name=HDMITX_CEC_M0
+Added Pin To Net: NetName=HDMITX_SCL Pin=Q2-2
+Added Pin To Net: NetName=HDMITX_SCL Pin=R16-1
+Added Pin To Net: NetName=HDMITX_SCL Pin=U15-AR12
+Added Net: Name=HDMITX_SCL
+Added Pin To Net: NetName=HDMITX_SDA Pin=Q3-2
+Added Pin To Net: NetName=HDMITX_SDA Pin=R18-1
+Added Pin To Net: NetName=HDMITX_SDA Pin=U15-AP11
+Added Net: Name=HDMITX_SDA
+Added Pin To Net: NetName=I2S2_LRCK_TX_M0 Pin=U13-28
+Added Pin To Net: NetName=I2S2_LRCK_TX_M0 Pin=U14-1D19
+Added Net: Name=I2S2_LRCK_TX_M0
+Added Pin To Net: NetName=I2S2_SCLK_TX_M0 Pin=U13-26
+Added Pin To Net: NetName=I2S2_SCLK_TX_M0 Pin=U14-C37
+Added Net: Name=I2S2_SCLK_TX_M0
+Added Pin To Net: NetName=I2S2_SDI_M0 Pin=U13-25
+Added Pin To Net: NetName=I2S2_SDI_M0 Pin=U14-D37
+Added Net: Name=I2S2_SDI_M0
+Added Pin To Net: NetName=I2S2_SDO_M0 Pin=U13-27
+Added Pin To Net: NetName=I2S2_SDO_M0 Pin=U14-1B20
+Added Net: Name=I2S2_SDO_M0
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R15-1
+Added Pin To Net: NetName=NetD7_1 Pin=R17-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U15-AP36
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=U15-AR36
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U15-AR35
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U15-AP35
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=U15-AP33
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=U15-AR33
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U15-AR32
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U15-AP32
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=U15-1U16
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=UART1_CTSN_M0 Pin=U13-41
+Added Pin To Net: NetName=UART1_CTSN_M0 Pin=U14-G37
+Added Net: Name=UART1_CTSN_M0
+Added Pin To Net: NetName=UART1_RTSN_M0 Pin=U13-44
+Added Pin To Net: NetName=UART1_RTSN_M0 Pin=U14-F37
+Added Net: Name=UART1_RTSN_M0
+Added Pin To Net: NetName=UART1_RX_M0 Pin=U13-42
+Added Pin To Net: NetName=UART1_RX_M0 Pin=U14-1C20
+Added Net: Name=UART1_RX_M0
+Added Pin To Net: NetName=UART1_TX_M0 Pin=U13-43
+Added Pin To Net: NetName=UART1_TX_M0 Pin=U14-F38
+Added Net: Name=UART1_TX_M0
+Added Pin To Net: NetName=VCC5V0_SYS Pin=D7-2
+Added Pin To Net: NetName=VCC5V0_SYS Pin=Q1-1
+Added Net: Name=VCC5V0_SYS
+Added Pin To Net: NetName=VCC_3V3 Pin=Q2-1
+Added Pin To Net: NetName=VCC_3V3 Pin=Q3-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R14-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R16-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R18-2
+Added Net: Name=VCC_3V3
+Added Class: Name=HDMI
+Added Class: Name=RK_VO_Interface1
+Added Member To Class: ClassName=RK_SARADC_GPIO Member=Component U15 RK3566
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

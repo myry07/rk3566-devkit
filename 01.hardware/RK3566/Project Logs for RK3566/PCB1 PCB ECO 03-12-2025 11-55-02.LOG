@@ -1,0 +1,193 @@
+Added Component: Designator=C2(C0402)
+Added Component: Designator=C3(C0402)
+Added Component: Designator=C4(C0603)
+Added Component: Designator=C5(C0402)
+Added Component: Designator=C6(C0603)
+Added Component: Designator=C7(C0402)
+Added Component: Designator=C8(C0402)
+Added Component: Designator=C9(C0402)
+Added Component: Designator=D8(SOD-323_L1.8-W1.3-LS2.5-RD)
+Add component (AddParameter): Name = "Symbol"; Value = "DSK34_C727076"; VariantName = "[No Variations]"
+Added Component: Designator=FPC1(FPC-SMD_P0.30-31P_FGS-XJ-H1.0)
+Add component (AddParameter): Name = "Symbol"; Value = "AFE03-S31FMA-1H"; VariantName = "[No Variations]"
+Added Component: Designator=FPC2(FPC-SMD_6P-P0.50_DEALON_0.5K-DX-6PWB)
+Added Component: Designator=R28(R0603)
+Added Component: Designator=R29(R0603)
+Added Component: Designator=R30(R0402)
+Added Component: Designator=R31(R0402)
+Added Component: Designator=R32(R0402)
+Added Component: Designator=R33(R0402)
+Added Component: Designator=R34(R0402)
+Added Component: Designator=R35(R0402)
+Added Component: Designator=U16(IND-SMD_L2.5-W2.0_WPN252012H)
+Added Component: Designator=U17(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "SY7201ABC"; VariantName = "[No Variations]"
+Added Component: Designator=U18(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U19(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U20(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U21(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U22(BGA-565_L15.5-W14.4-P0.40_RK3566_1)
+Add component (AddParameter): Name = "Symbol"; Value = "RK3566"; VariantName = "[No Variations]"
+Added Component: Designator=X1(CRYSTAL-SMD_4P-L3.2-W2.5-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/X322524MOB4SI/71688.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "YSX321SL 24MHZ 4P 3225 12PF ±10PPM -40~85? (±20PPM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YXC(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Normal temperature Frequency Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD3225-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C70590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Surface Mount Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=FPC1-9
+Added Pin To Net: NetName=GND Pin=FPC1-10
+Added Pin To Net: NetName=GND Pin=FPC1-13
+Added Pin To Net: NetName=GND Pin=FPC1-16
+Added Pin To Net: NetName=GND Pin=FPC1-19
+Added Pin To Net: NetName=GND Pin=FPC1-22
+Added Pin To Net: NetName=GND Pin=FPC1-25
+Added Pin To Net: NetName=VCC_3V3 Pin=FPC1-29
+Added Pin To Net: NetName=VCC_3V3 Pin=FPC1-30
+Added Pin To Net: NetName=VCC_3V3 Pin=FPC1-31
+Added Pin To Net: NetName=GND Pin=FPC1-32
+Added Pin To Net: NetName=VCC_3V3 Pin=FPC2-2
+Added Pin To Net: NetName=GND Pin=FPC2-3
+Added Pin To Net: NetName=GND Pin=FPC2-7
+Added Pin To Net: NetName=GND Pin=FPC2-8
+Added Pin To Net: NetName=HDMI_TX_HPDIN Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=U15-1P11
+Added Pin To Net: NetName=GND Pin=U15-1P12
+Added Pin To Net: NetName=VCC5V0_SYS Pin=U16-1
+Added Pin To Net: NetName=GND Pin=U17-2
+Added Pin To Net: NetName=VCC5V0_SYS Pin=U17-6
+Added Pin To Net: NetName=GND Pin=U18-1
+Added Pin To Net: NetName=GND Pin=U19-1
+Added Pin To Net: NetName=GND Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U21-1
+Added Pin To Net: NetName=SDMMC0_DET_L Pin=U22-AF37
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=I2C1_SCL_TP Pin=FPC2-6
+Added Pin To Net: NetName=I2C1_SCL_TP Pin=R32-1
+Added Pin To Net: NetName=I2C1_SCL_TP Pin=U21-2
+Added Pin To Net: NetName=I2C1_SCL_TP Pin=U22-AK37
+Added Net: Name=I2C1_SCL_TP
+Added Pin To Net: NetName=I2C1_SDA_TP Pin=FPC2-5
+Added Pin To Net: NetName=I2C1_SDA_TP Pin=R31-1
+Added Pin To Net: NetName=I2C1_SDA_TP Pin=U20-2
+Added Pin To Net: NetName=I2C1_SDA_TP Pin=U22-AM38
+Added Net: Name=I2C1_SDA_TP
+Added Pin To Net: NetName=MIPI_DSI_0N Pin=FPC1-21
+Added Pin To Net: NetName=MIPI_DSI_0N Pin=U15-AR24
+Added Net: Name=MIPI_DSI_0N
+Added Pin To Net: NetName=MIPI_DSI_0P Pin=FPC1-20
+Added Pin To Net: NetName=MIPI_DSI_0P Pin=U15-AP24
+Added Net: Name=MIPI_DSI_0P
+Added Pin To Net: NetName=MIPI_DSI_1N Pin=FPC1-15
+Added Pin To Net: NetName=MIPI_DSI_1N Pin=U15-AP23
+Added Net: Name=MIPI_DSI_1N
+Added Pin To Net: NetName=MIPI_DSI_1P Pin=FPC1-14
+Added Pin To Net: NetName=MIPI_DSI_1P Pin=U15-AR23
+Added Net: Name=MIPI_DSI_1P
+Added Pin To Net: NetName=MIPI_DSI_2N Pin=FPC1-12
+Added Pin To Net: NetName=MIPI_DSI_2N Pin=U15-AR21
+Added Net: Name=MIPI_DSI_2N
+Added Pin To Net: NetName=MIPI_DSI_2P Pin=FPC1-11
+Added Pin To Net: NetName=MIPI_DSI_2P Pin=U15-AP21
+Added Net: Name=MIPI_DSI_2P
+Added Pin To Net: NetName=MIPI_DSI_3N Pin=FPC1-24
+Added Pin To Net: NetName=MIPI_DSI_3N Pin=U15-AP20
+Added Net: Name=MIPI_DSI_3N
+Added Pin To Net: NetName=MIPI_DSI_3P Pin=FPC1-23
+Added Pin To Net: NetName=MIPI_DSI_3P Pin=U15-AR20
+Added Net: Name=MIPI_DSI_3P
+Added Pin To Net: NetName=MIPI_DSI_CLKN Pin=FPC1-18
+Added Pin To Net: NetName=MIPI_DSI_CLKN Pin=U15-1U11
+Added Net: Name=MIPI_DSI_CLKN
+Added Pin To Net: NetName=MIPI_DSI_CLKP Pin=FPC1-17
+Added Pin To Net: NetName=MIPI_DSI_CLKP Pin=U15-1V11
+Added Net: Name=MIPI_DSI_CLKP
+Added Pin To Net: NetName=MIPI_DSI_RESET Pin=FPC1-27
+Added Net: Name=MIPI_DSI_RESET
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED+ Pin=C2-2
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED+ Pin=D8-1
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED+ Pin=FPC1-1
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED+ Pin=FPC1-2
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED+ Pin=FPC1-3
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED+ Pin=U17-5
+Added Net: Name=MIPI_DSI_VCC_LED+
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED- Pin=FPC1-5
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED- Pin=FPC1-6
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED- Pin=FPC1-7
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED- Pin=FPC1-8
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED- Pin=R28-2
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED- Pin=R29-2
+Added Pin To Net: NetName=MIPI_DSI_VCC_LED- Pin=U17-3
+Added Net: Name=MIPI_DSI_VCC_LED-
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R34-1
+Added Pin To Net: NetName=NetC8_2 Pin=U22-AD37
+Added Pin To Net: NetName=NetC8_2 Pin=X1-3
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R33-1
+Added Pin To Net: NetName=NetC9_2 Pin=X1-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=U16-2
+Added Pin To Net: NetName=NetD8_2 Pin=U17-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=R34-2
+Added Pin To Net: NetName=NetR33_2 Pin=U22-AD38
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U22-1M18
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=PWM5_LCD_BL Pin=R30-2
+Added Pin To Net: NetName=PWM5_LCD_BL Pin=U17-4
+Added Pin To Net: NetName=PWM5_LCD_BL Pin=U22-AN37
+Added Net: Name=PWM5_LCD_BL
+Added Pin To Net: NetName=TP_INT_A Pin=FPC2-4
+Added Pin To Net: NetName=TP_INT_A Pin=U19-2
+Added Net: Name=TP_INT_A
+Added Pin To Net: NetName=TP_RST Pin=FPC2-1
+Added Pin To Net: NetName=TP_RST Pin=U18-2
+Added Net: Name=TP_RST
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R31-2
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R32-2
+Added Net: Name=VCC3V3_PMU
+Added Class: Name=MIPI_DSI_TP
+Added Class: Name=RK_OSC_PLL_PMUO1_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5

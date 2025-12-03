@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=BT_REG_ON_H Pin=U13-34
+Added Pin To Net: NetName=BT_REG_ON_H Pin=U14-D38
+Added Net: Name=BT_REG_ON_H
+Added Pin To Net: NetName=BT_WAKE_HOST_H Pin=U13-7
+Added Pin To Net: NetName=BT_WAKE_HOST_H Pin=U14-A37
+Added Net: Name=BT_WAKE_HOST_H
+Added Pin To Net: NetName=HOST_WAKE_BT_H Pin=U13-6
+Added Pin To Net: NetName=HOST_WAKE_BT_H Pin=U14-B36
+Added Net: Name=HOST_WAKE_BT_H
+Added Pin To Net: NetName=WIFI_REG_ON_H Pin=U13-12
+Added Pin To Net: NetName=WIFI_REG_ON_H Pin=U14-A35
+Added Net: Name=WIFI_REG_ON_H
+Added Pin To Net: NetName=WIFI_WAKE_HOST_H Pin=U13-13
+Added Pin To Net: NetName=WIFI_WAKE_HOST_H Pin=U14-B34
+Added Net: Name=WIFI_WAKE_HOST_H
