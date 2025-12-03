@@ -1,0 +1,15 @@
+Added Component: Designator=F1(F0805)
+Add component (AddParameter): Name = "Symbol"; Value = "BSMD0805L-200"; VariantName = "[No Variations]"
+Added Component: Designator=U23(BGA-565_L15.5-W14.4-P0.40_RK3566_1)
+Add component (AddParameter): Name = "Symbol"; Value = "RK3566"; VariantName = "[No Variations]"
+Added Component: Designator=U24(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "SY7201ABC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TP_INT_A Pin=U23-A22
+Added Pin To Net: NetName=MIPI_DSI_RESET Pin=U23-AP4
+Added Pin To Net: NetName=TP_RST Pin=U23-B22
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=U24-6
+Added Net: Name=NetF1_2
+Change Class Name : Old Net Name=RK_VO_Interface1 New Net Name=RK_VO_Interface
+Added Class: Name=PWOER
+Added Member To Class: ClassName=RK_VO_Interface Member=Component U23 RK3566
