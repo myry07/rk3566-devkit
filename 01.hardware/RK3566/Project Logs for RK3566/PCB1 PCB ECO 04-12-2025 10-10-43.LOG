@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Added Pin To Net: NetName=TP_INT_A Pin=U1-A22
+Added Pin To Net: NetName=TP_RST Pin=U1-B22
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR10_1
+Added Member To Class: ClassName=RK_DDR Member=Component U1 RK3566

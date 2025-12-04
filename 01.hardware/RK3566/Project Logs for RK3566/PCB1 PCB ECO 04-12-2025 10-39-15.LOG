@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=PWOER Member=F1
+Added Component: Designator=C10(C0603)
+Added Component: Designator=C11(C0402)
+Added Component: Designator=C12(C0402)
+Added Component: Designator=R36(R0402)
+Added Component: Designator=R37(R0402)
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=U24-2
+Added Pin To Net: NetName=VCC5V0_SYS Pin=U24-6
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R36-2
+Added Pin To Net: NetName=NetC12_2 Pin=R37-2
+Added Pin To Net: NetName=NetC12_2 Pin=U24-4
+Added Net: Name=NetC12_2
+Added Member To Class: ClassName=PWOER Member=Component C10 10uF
+Added Member To Class: ClassName=PWOER Member=Component C11 100nF
+Added Member To Class: ClassName=PWOER Member=Component C12 100nF
+Added Member To Class: ClassName=PWOER Member=Component R36 47kO
+Added Member To Class: ClassName=PWOER Member=Component R37 30kO
