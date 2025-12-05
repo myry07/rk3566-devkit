@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1C12
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1D11
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1D12
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1E11
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1E12
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1E13
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1F11
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1F12
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1F13
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1F14
+Removed Pin From Net: NetName=VDD_CPU Pin=U?-1G13
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1G15
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1H7
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1H8
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1H9
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1H10
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1H14
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1H15
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1J7
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1J10
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1J14
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1J15
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1K7
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1K10
+Removed Pin From Net: NetName=VDD_LOGIC Pin=U?-1L7
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1L8
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1L9
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1M7
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1M8
+Removed Pin From Net: NetName=VDD_GPU Pin=U?-1M9
+Removed Member From Class: ClassName=RK_POWER Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C73
+Change Component Designator: OldDesignator=C? NewDesignator=C74
+Change Component Designator: OldDesignator=C? NewDesignator=C75
+Change Component Designator: OldDesignator=C? NewDesignator=C76
+Change Component Designator: OldDesignator=C? NewDesignator=C77
+Change Component Designator: OldDesignator=C? NewDesignator=C78
+Change Component Designator: OldDesignator=C? NewDesignator=C79
+Change Component Designator: OldDesignator=C? NewDesignator=C80
+Change Component Designator: OldDesignator=C? NewDesignator=C81
+Change Component Designator: OldDesignator=C? NewDesignator=C82
+Change Component Designator: OldDesignator=C? NewDesignator=C83
+Change Component Designator: OldDesignator=C? NewDesignator=C84
+Change Component Designator: OldDesignator=C? NewDesignator=C85
+Change Component Designator: OldDesignator=C? NewDesignator=C86
+Change Component Designator: OldDesignator=C? NewDesignator=C87
+Change Component Designator: OldDesignator=C? NewDesignator=C88
+Change Component Designator: OldDesignator=C? NewDesignator=C89
+Change Component Designator: OldDesignator=C? NewDesignator=C90
+Change Component Designator: OldDesignator=C? NewDesignator=C91
+Change Component Designator: OldDesignator=C? NewDesignator=C92
+Change Component Designator: OldDesignator=C? NewDesignator=C93
+Change Component Designator: OldDesignator=C? NewDesignator=C94
+Change Component Designator: OldDesignator=C? NewDesignator=C95
+Change Component Designator: OldDesignator=U? NewDesignator=U28
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1C12
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1D11
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1D12
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1E11
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1E12
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1E13
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1F11
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1F12
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1F13
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1F14
+Added Pin To Net: NetName=VDD_CPU Pin=U28-1G13
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1G15
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1H7
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1H8
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1H9
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1H10
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1H14
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1H15
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1J7
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1J10
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1J14
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1J15
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1K7
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1K10
+Added Pin To Net: NetName=VDD_LOGIC Pin=U28-1L7
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1L8
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1L9
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1M7
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1M8
+Added Pin To Net: NetName=VDD_GPU Pin=U28-1M9
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Added Member To Class: ClassName=RK_POWER Member=Component C73 100nF
+Added Member To Class: ClassName=RK_POWER Member=Component C74 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C75 10uF
+Added Member To Class: ClassName=RK_POWER Member=Component C77 100nF
+Added Member To Class: ClassName=RK_POWER Member=Component C78 100nF
+Added Member To Class: ClassName=RK_POWER Member=Component C79 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C80 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C81 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C82 4.7uF
+Added Member To Class: ClassName=RK_POWER Member=Component C83 4.7uF
+Added Member To Class: ClassName=RK_POWER Member=Component C84 100nF
+Added Member To Class: ClassName=RK_POWER Member=Component C85 4.7uF
+Added Member To Class: ClassName=RK_POWER Member=Component C86 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C87 10uF
+Added Member To Class: ClassName=RK_POWER Member=Component C88 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C89 100nF
+Added Member To Class: ClassName=RK_POWER Member=Component C90 4.7uF
+Added Member To Class: ClassName=RK_POWER Member=Component C91 4.7uF
+Added Member To Class: ClassName=RK_POWER Member=Component C92 4.7uF
+Added Member To Class: ClassName=RK_POWER Member=Component C93 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C94 10uF
+Added Member To Class: ClassName=RK_POWER Member=Component C95 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component U28 RK3566
