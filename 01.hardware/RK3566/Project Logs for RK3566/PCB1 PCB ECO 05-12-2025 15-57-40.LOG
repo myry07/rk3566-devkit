@@ -1,0 +1,33 @@
+Added Component: Designator=U15(CONN-SMD_2P-P2.50_HCTL_HC-XH-2ALT)
+Add component (AddParameter): Name = "Symbol"; Value = "ZX-XH2.54-2PLT"; VariantName = "[No Variations]"
+Added Component: Designator=U22(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U23(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U25(CONN-SMD_2P-P2.50_HCTL_HC-XH-2ALT)
+Add component (AddParameter): Name = "Symbol"; Value = "ZX-XH2.54-2PLT"; VariantName = "[No Variations]"
+Added Component: Designator=U26(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U27(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PMIC_SLEEP_H Pin=U1-1P19
+Added Pin To Net: NetName=PMIC_SLEEP_H Pin=U4-49
+Added Pin To Net: NetName=SPK_OUTP Pin=U15-1
+Added Pin To Net: NetName=SPK_OUTN Pin=U15-2
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U15-4
+Added Pin To Net: NetName=GND Pin=U22-1
+Added Pin To Net: NetName=SPK_OUTP Pin=U22-2
+Added Pin To Net: NetName=GND Pin=U23-1
+Added Pin To Net: NetName=SPK_OUTN Pin=U23-2
+Added Pin To Net: NetName=MIC1P Pin=U25-1
+Added Pin To Net: NetName=GND Pin=U25-2
+Added Pin To Net: NetName=GND Pin=U25-3
+Added Pin To Net: NetName=GND Pin=U25-4
+Added Pin To Net: NetName=GND Pin=U26-1
+Added Pin To Net: NetName=MIC1P Pin=U26-2
+Added Pin To Net: NetName=GND Pin=U27-1
+Added Pin To Net: NetName=GND Pin=U27-2
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Added Class: Name=Audio
