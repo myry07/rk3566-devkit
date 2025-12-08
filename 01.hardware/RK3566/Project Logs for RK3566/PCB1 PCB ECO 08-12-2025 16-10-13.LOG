@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Member From Class: ClassName=POWER_PMIC Member=BT1
+Added Component: Designator=BT??(BAT-SMD_CR1220-2ZX)
+Add component (AddParameter): Name = "Symbol"; Value = "CR1220-2ZX"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT??-2
+Added Pin To Net: NetName=NetBT??_1 Pin=BT??-1
+Added Pin To Net: NetName=NetBT??_1 Pin=D9-1
+Added Net: Name=NetBT??_1
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Added Member To Class: ClassName=POWER_PMIC Member=Component BT?? CR1220-2ZX
