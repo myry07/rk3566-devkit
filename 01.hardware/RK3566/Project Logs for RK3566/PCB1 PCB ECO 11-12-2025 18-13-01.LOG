@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=CN2-1
+Removed Pin From Net: NetName=+12V Pin=CN2-2
+Removed Pin From Net: NetName=GND Pin=CN2-3
+Removed Pin From Net: NetName=GND Pin=CN2-4
+Removed Member From Class: ClassName=PWOER Member=CN?
+Change Component Designator: OldDesignator=CN? NewDesignator=CN2
+Added Component: Designator=CN3(CONN-SMD_2P-P1.25-HC-1.25-2PWT)
+Add component (AddParameter): Name = "Symbol"; Value = "HC-1.25-2PWT"; VariantName = "[No Variations]"
+Added Component: Designator=CN4(CONN-SMD_2P-P1.25-HC-1.25-2PWT)
+Add component (AddParameter): Name = "Symbol"; Value = "HC-1.25-2PWT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN2-1
+Added Pin To Net: NetName=+12V Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=GND Pin=CN2-4
+Added Pin To Net: NetName=SPK_OUTN Pin=CN3-1
+Added Pin To Net: NetName=SPK_OUTP Pin=CN3-2
+Added Pin To Net: NetName=GND Pin=CN3-3
+Added Pin To Net: NetName=GND Pin=CN3-4
+Added Pin To Net: NetName=GND Pin=CN4-1
+Added Pin To Net: NetName=MIC1P Pin=CN4-2
+Added Pin To Net: NetName=GND Pin=CN4-3
+Added Pin To Net: NetName=GND Pin=CN4-4
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component CN3 HC-1.25-2PWT
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component CN4 HC-1.25-2PWT

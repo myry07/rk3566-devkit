@@ -1,0 +1,332 @@
+Added Component: Designator=AUDIO1(AUDIO-SMD_PJ-393)
+Add component (AddParameter): Name = "Symbol"; Value = "PJ-393_C2837065"; VariantName = "[No Variations]"
+Added Component: Designator=C179(C0402)
+Added Component: Designator=C180(C0201)
+Added Component: Designator=C181(C0201)
+Added Component: Designator=C182(C0201)
+Added Component: Designator=C183(C0402)
+Added Component: Designator=C184(C0603)
+Added Component: Designator=C185(C0201)
+Added Component: Designator=C186(C0201)
+Added Component: Designator=C187(C0201)
+Added Component: Designator=C188(C0402)
+Added Component: Designator=C189(C0603)
+Added Component: Designator=C190(C0603)
+Added Component: Designator=C191(C0402)
+Added Component: Designator=C192(C0201)
+Added Component: Designator=C193(C0201)
+Added Component: Designator=C194(C0201)
+Added Component: Designator=C195(C0201)
+Added Component: Designator=C196(C0201)
+Added Component: Designator=C197(C0201)
+Added Component: Designator=C198(C0201)
+Added Component: Designator=C199(C0201)
+Added Component: Designator=C200(C0402)
+Added Component: Designator=C201(C0402)
+Added Component: Designator=C202(C0201)
+Added Component: Designator=C203(C0201)
+Added Component: Designator=C204(C0201)
+Added Component: Designator=C205(C0201)
+Added Component: Designator=C206(C0402)
+Added Component: Designator=C207(C0201)
+Added Component: Designator=C208(C0201)
+Added Component: Designator=C209(C0201)
+Added Component: Designator=C210(C0201)
+Added Component: Designator=C211(C0201)
+Added Component: Designator=C212(C0201)
+Added Component: Designator=C213(C0201)
+Added Component: Designator=C214(C0201)
+Added Component: Designator=C215(C0201)
+Added Component: Designator=C216(C0201)
+Added Component: Designator=C217(C0201)
+Added Component: Designator=C218(C0402)
+Added Component: Designator=C219(C0402)
+Added Component: Designator=C220(C0201)
+Added Component: Designator=C221(C0201)
+Added Component: Designator=C222(C0402)
+Added Component: Designator=C223(C0201)
+Added Component: Designator=C224(C0402)
+Added Component: Designator=C225(C0201)
+Added Component: Designator=C226(C0402)
+Added Component: Designator=C227(C0201)
+Added Component: Designator=C228(C0402)
+Added Component: Designator=C229(C0201)
+Added Component: Designator=C230(C0201)
+Added Component: Designator=C231(C0201)
+Added Component: Designator=C232(C0402)
+Added Component: Designator=R94(R0402)
+Added Component: Designator=R95(R0402)
+Added Component: Designator=R96(R0402)
+Added Component: Designator=R97(R0402)
+Added Component: Designator=R98(R0402)
+Added Component: Designator=R99(R0402)
+Added Component: Designator=R100(R0402)
+Added Component: Designator=R101(R0402)
+Added Component: Designator=R102(R0402)
+Added Pin To Net: NetName=GND Pin=AUDIO1-1
+Added Pin To Net: NetName=HP_SNS Pin=AUDIO1-2
+Added Pin To Net: NetName=HPR_OUT Pin=AUDIO1-3
+Added Pin To Net: NetName=HPL_OUT Pin=AUDIO1-4
+Added Pin To Net: NetName=VCC3V3_SYS Pin=C46-2
+Added Pin To Net: NetName=VCC3V3_SYS Pin=C47-2
+Added Pin To Net: NetName=VCCIO_WL Pin=C49-2
+Added Pin To Net: NetName=VCCIO_WL Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C179-1
+Added Pin To Net: NetName=GND Pin=C180-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C180-2
+Added Pin To Net: NetName=GND Pin=C181-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C181-2
+Added Pin To Net: NetName=GND Pin=C182-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C182-2
+Added Pin To Net: NetName=GND Pin=C183-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C183-2
+Added Pin To Net: NetName=GND Pin=C184-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C184-2
+Added Pin To Net: NetName=GND Pin=C185-1
+Added Pin To Net: NetName=VCC_DDR Pin=C185-2
+Added Pin To Net: NetName=GND Pin=C186-1
+Added Pin To Net: NetName=VCC_DDR Pin=C186-2
+Added Pin To Net: NetName=GND Pin=C187-1
+Added Pin To Net: NetName=VCC_DDR Pin=C187-2
+Added Pin To Net: NetName=GND Pin=C188-1
+Added Pin To Net: NetName=VCC_DDR Pin=C188-2
+Added Pin To Net: NetName=GND Pin=C189-1
+Added Pin To Net: NetName=VCC_DDR Pin=C189-2
+Added Pin To Net: NetName=GND Pin=C190-1
+Added Pin To Net: NetName=VCC3V3_SD Pin=C190-2
+Added Pin To Net: NetName=GND Pin=C191-1
+Added Pin To Net: NetName=VCC3V3_SD Pin=C191-2
+Added Pin To Net: NetName=GND Pin=C192-1
+Added Pin To Net: NetName=VCCIO_WL Pin=C192-2
+Added Pin To Net: NetName=GND Pin=C193-1
+Added Pin To Net: NetName=VCCIO_ACODEC Pin=C193-2
+Added Pin To Net: NetName=GND Pin=C194-1
+Added Pin To Net: NetName=VCCIO_SD Pin=C194-2
+Added Pin To Net: NetName=GND Pin=C195-1
+Added Pin To Net: NetName=VCCIO_FLASH Pin=C195-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C196-1
+Added Pin To Net: NetName=GND Pin=C196-2
+Added Pin To Net: NetName=GND Pin=C197-2
+Added Pin To Net: NetName=VDDA_0V9 Pin=C198-1
+Added Pin To Net: NetName=GND Pin=C198-2
+Added Pin To Net: NetName=GND Pin=C199-2
+Added Pin To Net: NetName=VDDA_0V9 Pin=C200-1
+Added Pin To Net: NetName=GND Pin=C200-2
+Added Pin To Net: NetName=VDDA_0V9 Pin=C201-1
+Added Pin To Net: NetName=GND Pin=C201-2
+Added Pin To Net: NetName=GND Pin=C202-1
+Added Pin To Net: NetName=VDDA_0V9 Pin=C202-2
+Added Pin To Net: NetName=GND Pin=C203-1
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=C203-2
+Added Pin To Net: NetName=GND Pin=C204-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C204-2
+Added Pin To Net: NetName=GND Pin=C205-1
+Added Pin To Net: NetName=GND Pin=C206-1
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=C206-2
+Added Pin To Net: NetName=GND Pin=C207-1
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=C207-2
+Added Pin To Net: NetName=GND Pin=C208-1
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=C208-2
+Added Pin To Net: NetName=GND Pin=C209-1
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=C209-2
+Added Pin To Net: NetName=GND Pin=C210-1
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=C210-2
+Added Pin To Net: NetName=GND Pin=C211-1
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=C211-2
+Added Pin To Net: NetName=GND Pin=C212-1
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=C212-2
+Added Pin To Net: NetName=GND Pin=C213-1
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=C213-2
+Added Pin To Net: NetName=GND Pin=C214-1
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=C214-2
+Added Pin To Net: NetName=GND Pin=C215-1
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=C215-2
+Added Pin To Net: NetName=GND Pin=C216-1
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=C216-2
+Added Pin To Net: NetName=GND Pin=C217-1
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=C217-2
+Added Pin To Net: NetName=GND Pin=C218-1
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=C218-2
+Added Pin To Net: NetName=GND Pin=C219-1
+Added Pin To Net: NetName=GND Pin=C220-1
+Added Pin To Net: NetName=GND Pin=C221-1
+Added Pin To Net: NetName=VCC3V3_PMU Pin=C221-2
+Added Pin To Net: NetName=GND Pin=C222-1
+Added Pin To Net: NetName=GND Pin=C223-1
+Added Pin To Net: NetName=GND Pin=C224-1
+Added Pin To Net: NetName=VCCA1V8_PMU Pin=C224-2
+Added Pin To Net: NetName=GND Pin=C225-1
+Added Pin To Net: NetName=VCCA1V8_PMU Pin=C225-2
+Added Pin To Net: NetName=GND Pin=C226-1
+Added Pin To Net: NetName=VDDA_0V9 Pin=C226-2
+Added Pin To Net: NetName=GND Pin=C227-1
+Added Pin To Net: NetName=VDDA_0V9 Pin=C227-2
+Added Pin To Net: NetName=GND Pin=C228-1
+Added Pin To Net: NetName=GND Pin=C229-1
+Added Pin To Net: NetName=GND Pin=C230-1
+Added Pin To Net: NetName=VCC3V3_PMU Pin=C230-2
+Added Pin To Net: NetName=GND Pin=C231-1
+Added Pin To Net: NetName=GND Pin=C232-1
+Added Pin To Net: NetName=VCC3V3_SYS Pin=C232-2
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R34-2
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R35-2
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R57-2
+Added Pin To Net: NetName=VCCA1V8_PMU Pin=R63-2
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R87-2
+Added Pin To Net: NetName=HP_SNS Pin=R94-1
+Added Pin To Net: NetName=GND Pin=R94-2
+Added Pin To Net: NetName=VCC3V3_SYS Pin=R95-2
+Added Pin To Net: NetName=VCC_DDR Pin=R97-2
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R98-2
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R99-2
+Added Pin To Net: NetName=I2C0_SDA_PMIC Pin=R100-1
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R100-2
+Added Pin To Net: NetName=I2C0_SCL_PMIC Pin=R101-1
+Added Pin To Net: NetName=VCC3V3_PMU Pin=R101-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U2-1C13
+Added Pin To Net: NetName=GND Pin=U2-1D4
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1D5
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1D6
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1D7
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1D8
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1D9
+Added Pin To Net: NetName=VCCIO_ACODEC Pin=U2-1D13
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1E4
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U2-1E6
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U2-1E7
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U2-1E9
+Added Pin To Net: NetName=VCCIO_WL Pin=U2-1E16
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1F4
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U2-1F5
+Added Pin To Net: NetName=VCCIO_SD Pin=U2-1F17
+Added Pin To Net: NetName=VCC_DDR Pin=U2-1G4
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U2-1G5
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=U2-1G17
+Added Pin To Net: NetName=VDDA_0V9 Pin=U2-1H5
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=U2-1H17
+Added Pin To Net: NetName=VCC_3V3 Pin=U2-1H18
+Added Pin To Net: NetName=VCC_3V3 Pin=U2-1J2
+Added Pin To Net: NetName=VDDA_0V9 Pin=U2-1J4
+Added Pin To Net: NetName=GND Pin=U2-1J5
+Added Pin To Net: NetName=VDDA_0V9 Pin=U2-1J17
+Added Pin To Net: NetName=VDDA_0V9 Pin=U2-1K16
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=U2-1N9
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=U2-1N10
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=U2-1N13
+Added Pin To Net: NetName=VDDA0V9_IMAGE Pin=U2-1N14
+Added Pin To Net: NetName=VCC3V3_PMU Pin=U2-1N15
+Added Pin To Net: NetName=GND Pin=U2-1N17
+Added Pin To Net: NetName=VCCA1V8_PMU Pin=U2-1N18
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=U2-1P9
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=U2-1P13
+Added Pin To Net: NetName=VCC3V3_PMU Pin=U2-1P16
+Added Pin To Net: NetName=VCCA1V8_IMAGE Pin=U2-1R10
+Added Pin To Net: NetName=FLASH_VOL_SEL Pin=U2-AF38
+Added Pin To Net: NetName=VCC3V3_SD Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=VCC3V3_SYS Pin=U12-9
+Added Pin To Net: NetName=VCCIO_WL Pin=U12-22
+Added Pin To Net: NetName=VCC3V3_SYS Pin=U28-4
+Added Pin To Net: NetName=IND_LX_FB/OUT Pin=U28-5
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=CLK1_M0_GPIO1_A4 Pin=U2-1A13
+Added Net: Name=CLK1_M0_GPIO1_A4
+Added Pin To Net: NetName=GPIO0_A5 Pin=U2-AG37
+Added Net: Name=GPIO0_A5
+Added Pin To Net: NetName=GPIO0_B7 Pin=U2-1R17
+Added Net: Name=GPIO0_B7
+Added Pin To Net: NetName=HP_PLUG_IN_DET Pin=C179-2
+Added Pin To Net: NetName=HP_PLUG_IN_DET Pin=R95-1
+Added Pin To Net: NetName=HP_PLUG_IN_DET Pin=R96-1
+Added Pin To Net: NetName=HP_PLUG_IN_DET Pin=U2-1U19
+Added Net: Name=HP_PLUG_IN_DET
+Added Pin To Net: NetName=I2C2_SCL_M0 Pin=R99-1
+Added Pin To Net: NetName=I2C2_SCL_M0 Pin=U2-1U20
+Added Net: Name=I2C2_SCL_M0
+Added Pin To Net: NetName=I2C2_SDA_M0 Pin=R98-1
+Added Pin To Net: NetName=I2C2_SDA_M0 Pin=U2-1R16
+Added Net: Name=I2C2_SDA_M0
+Added Pin To Net: NetName=NetAUDIO1_6 Pin=AUDIO1-6
+Added Pin To Net: NetName=NetAUDIO1_6 Pin=R96-2
+Added Net: Name=NetAUDIO1_6
+Added Pin To Net: NetName=NetR97_1 Pin=R97-1
+Added Pin To Net: NetName=NetR97_1 Pin=U2-1F3
+Added Net: Name=NetR97_1
+Add Net: Net with name "RESETN" already exists
+Added Pin To Net: NetName=RGB_LED_B Pin=U2-1B13
+Added Net: Name=RGB_LED_B
+Added Pin To Net: NetName=RGB_LED_G Pin=U2-A26
+Added Net: Name=RGB_LED_G
+Added Pin To Net: NetName=RGB_LED_R Pin=U2-B26
+Added Net: Name=RGB_LED_R
+Added Pin To Net: NetName=TSADC_SEUT_M0 Pin=R102-1
+Added Pin To Net: NetName=TSADC_SEUT_M0 Pin=U2-1R20
+Added Net: Name=TSADC_SEUT_M0
+Added Pin To Net: NetName=UART0_RX Pin=U2-1T19
+Added Net: Name=UART0_RX
+Added Pin To Net: NetName=UART0_TX Pin=U2-1R18
+Added Net: Name=UART0_TX
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA_1V8" already exists
+Added Pin To Net: NetName=VDDA0V9_PMU Pin=C219-2
+Added Pin To Net: NetName=VDDA0V9_PMU Pin=C220-2
+Added Pin To Net: NetName=VDDA0V9_PMU Pin=C222-2
+Added Pin To Net: NetName=VDDA0V9_PMU Pin=C223-2
+Added Pin To Net: NetName=VDDA0V9_PMU Pin=U2-1N16
+Added Pin To Net: NetName=VDDA0V9_PMU Pin=U2-1P17
+Added Net: Name=VDDA0V9_PMU
+Added Pin To Net: NetName=VDDA_1V8 Pin=C228-2
+Added Pin To Net: NetName=VDDA_1V8 Pin=C229-2
+Added Pin To Net: NetName=VDDA_1V8 Pin=U2-1H4
+Added Net: Name=VDDA_1V8
+Change Class Name : Old Net Name=Audio New Net Name=Audio_AND_HPJ
+Change Class Name : Old Net Name=DEBUG New Net Name=DEBUG_AND_GPIO
+Change Class Name : Old Net Name=RK_VO_Interface New Net Name=RK_MIPI_HDMI
+Added Class: Name=RK_DDR
+Added Class: Name=RK_USB_GPIO
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component AUDIO1 PJ-393_C2837065
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component C179 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C190 10uF
+Added Member To Class: ClassName=FLASH_SD Member=Component C191 100nF
+Added Member To Class: ClassName=RK_FLASH_SD_SARADC Member=Component C192 100nF-0201
+Added Member To Class: ClassName=RK_FLASH_SD_SARADC Member=Component C193 100nF-0201
+Added Member To Class: ClassName=RK_FLASH_SD_SARADC Member=Component C194 100nF-0201
+Added Member To Class: ClassName=RK_FLASH_SD_SARADC Member=Component C195 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C209 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C210 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C211 1uF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C212 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C213 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C214 1uF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C215 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C216 1uF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C217 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C218 1uF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C219 1uF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C220 100nF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C221 100nF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C222 1uF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C223 100nF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C224 1uF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C225 100nF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C226 1uF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C227 100nF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C228 1uF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C229 100nF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C230 100nF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C231 100nF-0201
+Added Member To Class: ClassName=POWER_FLASH_POWER_MANAGE Member=Component C232 NC
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component R94 0O
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component R95 10kO
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component R96 1kO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R98 2.2kO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R99 2.2kO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R100 2.2kO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R101 2.2kO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R102 0O
+Added Rule: Name=Schematic Supply Nets_25
+Added Rule: Name=Schematic Supply Nets_26
+Added Rule: Name=Schematic Supply Nets_27
+Added Rule: Name=Schematic Supply Nets_28
+Added Rule: Name=Schematic Supply Nets_29
+Added Rule: Name=Schematic Supply Nets_30

@@ -1,0 +1,53 @@
+Added Component: Designator=U42(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=U43(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "9.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ESD5451N/5983779.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Junction Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5V 15pF ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HXY MOSFET(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "DFN1006-2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N_C5261080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ESD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "8V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U42-1
+Added Pin To Net: NetName=NetH1_2 Pin=U42-2
+Added Pin To Net: NetName=GND Pin=U43-1
+Added Pin To Net: NetName=NetH1_3 Pin=U43-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=DEBUG_AND_GPIO Member=Component U42 ESD5451N
+Added Member To Class: ClassName=DEBUG_AND_GPIO Member=Component U43 ESD5451N

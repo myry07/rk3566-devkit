@@ -1,0 +1,9 @@
+Added Component: Designator=R115(R0402)
+Added Component: Designator=R116(R0402)
+Added Pin To Net: NetName=HW_ID Pin=R115-1
+Added Pin To Net: NetName=VCCA_1V8 Pin=R115-2
+Added Pin To Net: NetName=GND Pin=R116-1
+Added Pin To Net: NetName=HW_ID Pin=R116-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=RK_USB_GPIO Member=Component R115 10kO
+Added Member To Class: ClassName=RK_USB_GPIO Member=Component R116 NC

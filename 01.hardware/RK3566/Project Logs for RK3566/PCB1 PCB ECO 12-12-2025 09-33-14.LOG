@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q6
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ5_1
+Added Member To Class: ClassName=USB_OTG_AND_HOST Member=Component Q6 MMBT5401(RANGE:200-300)

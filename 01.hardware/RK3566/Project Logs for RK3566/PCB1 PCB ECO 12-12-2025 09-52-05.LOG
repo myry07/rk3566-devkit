@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=HDMI Member=Q5
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=HDMI Member=Component Q3 2SK3018_C194460
+Added Member To Class: ClassName=USB_OTG_AND_HOST Member=Component Q4 CJ2301 S1

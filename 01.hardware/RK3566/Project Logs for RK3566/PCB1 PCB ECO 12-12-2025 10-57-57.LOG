@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C226-1
+Removed Pin From Net: NetName=VDDA_0V9 Pin=C226-2
+Removed Member From Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C226
+Added Pin To Net: NetName=GND Pin=C226-1
+Added Pin To Net: NetName=VDDA_0V9 Pin=C226-2
+Add Pin To Net: Unknown Pin: Pin USB2-7

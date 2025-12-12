@@ -1,0 +1,16 @@
+Remove Pin=FPC1-1 From Net=MIPI_DSI_VCC_LED+
+Remove Pin=FPC1-2 From Net=MIPI_DSI_VCC_LED+
+Remove Pin=FPC1-3 From Net=MIPI_DSI_VCC_LED+
+Remove Pin=FPC1-5 From Net=MIPI_DSI_VCC_LED-
+Remove Pin=FPC1-7 From Net=MIPI_DSI_VCC_LED-
+Remove Pin=FPC1-11 From Net=MIPI_DSI_2P
+Remove Pin=FPC1-12 From Net=MIPI_DSI_2N
+Remove Pin=FPC1-14 From Net=MIPI_DSI_1P
+Remove Pin=FPC1-15 From Net=MIPI_DSI_1N
+Remove Pin=FPC1-17 From Net=MIPI_DSI_CLKP
+Remove Pin=FPC1-18 From Net=MIPI_DSI_CLKN
+Remove Pin=FPC1-20 From Net=MIPI_DSI_0P
+Remove Pin=FPC1-21 From Net=MIPI_DSI_0N
+Remove Pin=FPC1-23 From Net=MIPI_DSI_3P
+Remove Pin=FPC1-24 From Net=MIPI_DSI_3N
+Change Component Designator: OldDesignator=FPC1 NewDesignator=FPC?

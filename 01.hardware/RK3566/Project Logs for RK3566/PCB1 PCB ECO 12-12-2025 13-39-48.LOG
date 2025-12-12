@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCCA_1V8 Pin=C234-1
+Removed Pin From Net: NetName=GND Pin=C234-2
+Removed Member From Class: ClassName=RK_USB_GPIO Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C234
+Added Pin To Net: NetName=GND Pin=C234-1
+Added Pin To Net: NetName=VCCA_1V8 Pin=C234-2
+Add Pin To Net: Unknown Pin: Pin USB2-7

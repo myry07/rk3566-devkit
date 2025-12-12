@@ -1,0 +1,4 @@
+Added Component: Designator=C?(C0201)
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C? 1uF-0201
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R38 0O

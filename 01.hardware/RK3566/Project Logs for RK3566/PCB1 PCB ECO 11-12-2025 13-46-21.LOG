@@ -1,0 +1,102 @@
+Added Component: Designator=C240(C0402)
+Added Component: Designator=C241(C0402)
+Added Component: Designator=C242(C0603)
+Added Component: Designator=C243(C0402)
+Added Component: Designator=C244(C0603)
+Added Component: Designator=C245(C0402)
+Added Component: Designator=C246(C0402)
+Added Component: Designator=C247(C0402)
+Added Component: Designator=CN2(CONN-SMD_2P-P1.25-HC-1.25-2PWT)
+Add component (AddParameter): Name = "Symbol"; Value = "HC-1.25-2PWT"; VariantName = "[No Variations]"
+Added Component: Designator=F2(F0805)
+Add component (AddParameter): Name = "Symbol"; Value = "BSMD0805L-200"; VariantName = "[No Variations]"
+Added Component: Designator=L11(IND-SMD_L4.4-W4.2)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SLW4030S1R0NST/207399.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1uH ±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunltech(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,4x4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C206354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=R109(R0402)
+Added Component: Designator=R110(R0402)
+Added Component: Designator=R111(R0402)
+Added Component: Designator=R112(R0402)
+Added Component: Designator=R113(R0402)
+Added Component: Designator=U41(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "SY7201ABC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC5V0_SYS Pin=C241-2
+Added Pin To Net: NetName=GND Pin=C242-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=C242-2
+Added Pin To Net: NetName=GND Pin=C243-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=C243-2
+Added Pin To Net: NetName=GND Pin=C244-1
+Added Pin To Net: NetName=GND Pin=C245-1
+Added Pin To Net: NetName=GND Pin=C246-1
+Added Pin To Net: NetName=GND Pin=C247-1
+Added Pin To Net: NetName=GND Pin=CN2-1
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=GND Pin=CN2-4
+Added Pin To Net: NetName=VCC5V0_SYS Pin=L11-2
+Added Pin To Net: NetName=VCC5V0_SYS Pin=R109-2
+Added Pin To Net: NetName=GND Pin=R112-1
+Added Pin To Net: NetName=GND Pin=R113-1
+Added Pin To Net: NetName=GND Pin=U41-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=+12V Pin=CN2-2
+Added Pin To Net: NetName=+12V Pin=F2-1
+Added Pin To Net: NetName=+12V Pin=R111-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=NetC240_1 Pin=C240-1
+Added Pin To Net: NetName=NetC240_1 Pin=U41-1
+Added Net: Name=NetC240_1
+Added Pin To Net: NetName=NetC240_2 Pin=C240-2
+Added Pin To Net: NetName=NetC240_2 Pin=L11-1
+Added Pin To Net: NetName=NetC240_2 Pin=U41-6
+Added Net: Name=NetC240_2
+Added Pin To Net: NetName=NetC241_1 Pin=C241-1
+Added Pin To Net: NetName=NetC241_1 Pin=R109-1
+Added Pin To Net: NetName=NetC241_1 Pin=R113-2
+Added Pin To Net: NetName=NetC241_1 Pin=U41-3
+Added Net: Name=NetC241_1
+Added Pin To Net: NetName=NetC246_2 Pin=C246-2
+Added Pin To Net: NetName=NetC246_2 Pin=R110-2
+Added Pin To Net: NetName=NetC246_2 Pin=R112-2
+Added Pin To Net: NetName=NetC246_2 Pin=U41-4
+Added Net: Name=NetC246_2
+Added Pin To Net: NetName=NetC247_2 Pin=C247-2
+Added Pin To Net: NetName=NetC247_2 Pin=R111-1
+Added Net: Name=NetC247_2
+Added Pin To Net: NetName=VCC12V_DCIN Pin=C244-2
+Added Pin To Net: NetName=VCC12V_DCIN Pin=C245-2
+Added Pin To Net: NetName=VCC12V_DCIN Pin=F2-2
+Added Pin To Net: NetName=VCC12V_DCIN Pin=R110-1
+Added Pin To Net: NetName=VCC12V_DCIN Pin=U41-5
+Added Net: Name=VCC12V_DCIN
+Added Member To Class: ClassName=PWOER Member=Component C240 100nF
+Added Member To Class: ClassName=PWOER Member=Component C241 22pF
+Added Member To Class: ClassName=PWOER Member=Component C242 10uF
+Added Member To Class: ClassName=PWOER Member=Component C243 100nF
+Added Member To Class: ClassName=PWOER Member=Component C244 10uF
+Added Member To Class: ClassName=PWOER Member=Component C245 100nF
+Added Member To Class: ClassName=PWOER Member=Component C246 100nF
+Added Member To Class: ClassName=PWOER Member=Component C247 2.2uF
+Added Member To Class: ClassName=PWOER Member=Component CN2 HC-1.25-2PWT
+Added Member To Class: ClassName=PWOER Member=Component F2 BSMD0805L-200
+Added Member To Class: ClassName=PWOER Member=Component L11 6.8uH
+Added Member To Class: ClassName=PWOER Member=Component R109 232kO
+Added Member To Class: ClassName=PWOER Member=Component R110 47kO
+Added Member To Class: ClassName=PWOER Member=Component R111 2.2O
+Added Member To Class: ClassName=PWOER Member=Component R112 15kO-NC
+Added Member To Class: ClassName=PWOER Member=Component R113 30kO
+Added Member To Class: ClassName=PWOER Member=Component U41 SY8113BADC
+Added Rule: Name=Schematic Supply Nets_32

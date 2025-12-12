@@ -1,0 +1,760 @@
+Removed Pin From Net: NetName=LPDDR4_DQ0_B Pin=U2-AA2
+Removed Pin From Net: NetName=LPDDR4_DQ7_B Pin=U2-AA4
+Removed Pin From Net: NetName=LPDDR4_DQ15_B Pin=U2-AA9
+Removed Pin From Net: NetName=LPDDR4_DQ8_B Pin=U2-AA11
+Removed Pin From Net: NetName=LPDDR4_DQ0_A Pin=U2-B2
+Removed Pin From Net: NetName=LPDDR4_DQ7_A Pin=U2-B4
+Removed Pin From Net: NetName=LPDDR4_DQ15_A Pin=U2-B9
+Removed Pin From Net: NetName=LPDDR4_DQ8_A Pin=U2-B11
+Removed Pin From Net: NetName=LPDDR4_DQ1_A Pin=U2-C2
+Removed Pin From Net: NetName=LPDDR4_DM0_A Pin=U2-C3
+Removed Pin From Net: NetName=LPDDR4_DQ6_A Pin=U2-C4
+Removed Pin From Net: NetName=LPDDR4_DQ14_A Pin=U2-C9
+Removed Pin From Net: NetName=LPDDR4_DM1_A Pin=U2-C10
+Removed Pin From Net: NetName=LPDDR4_DQ9_A Pin=U2-C11
+Removed Pin From Net: NetName=LPDDR4_DQS0P_A Pin=U2-D3
+Removed Pin From Net: NetName=LPDDR4_DQS1P_A Pin=U2-D10
+Removed Pin From Net: NetName=LPDDR4_DQ2_A Pin=U2-E2
+Removed Pin From Net: NetName=LPDDR4_DQS0N_A Pin=U2-E3
+Removed Pin From Net: NetName=LPDDR4_DQ5_A Pin=U2-E4
+Removed Pin From Net: NetName=LPDDR4_DQ13_A Pin=U2-E9
+Removed Pin From Net: NetName=LPDDR4_DQS1N_A Pin=U2-E10
+Removed Pin From Net: NetName=LPDDR4_DQ10_A Pin=U2-E11
+Removed Pin From Net: NetName=LPDDR4_DQ3_A Pin=U2-F2
+Removed Pin From Net: NetName=LPDDR4_DQ4_A Pin=U2-F4
+Removed Pin From Net: NetName=LPDDR4_DQ12_A Pin=U2-F9
+Removed Pin From Net: NetName=LPDDR4_DQ11_A Pin=U2-F11
+Removed Pin From Net: NetName=LPDDR4_ODT0_CA_A Pin=U2-G2
+Removed Pin From Net: NetName=LPDDR4_A0_A Pin=U2-H2
+Removed Pin From Net: NetName=LPDDR4_CS1n_A Pin=U2-H3
+Removed Pin From Net: NetName=LPDDR4_CS0n_A Pin=U2-H4
+Removed Pin From Net: NetName=LPDDR4_A2_A Pin=U2-H9
+Removed Pin From Net: NetName=LPDDR4_A3_A Pin=U2-H10
+Removed Pin From Net: NetName=LPDDR4_A4_A Pin=U2-H11
+Removed Pin From Net: NetName=LPDDR4_A1_A Pin=U2-J2
+Removed Pin From Net: NetName=LPDDR4_CKE0_A Pin=U2-J4
+Removed Pin From Net: NetName=LPDDR4_CKE1_A Pin=U2-J5
+Removed Pin From Net: NetName=LPDDR4_CLKP_A Pin=U2-J8
+Removed Pin From Net: NetName=LPDDR4_CLKN_A Pin=U2-J9
+Removed Pin From Net: NetName=LPDDR4_A5_A Pin=U2-J11
+Removed Pin From Net: NetName=LPDDR4_A1_B Pin=U2-P2
+Removed Pin From Net: NetName=LPDDR4_CKE0_B Pin=U2-P4
+Removed Pin From Net: NetName=LPDDR4_CKE1_B Pin=U2-P5
+Removed Pin From Net: NetName=LPDDR4_CLKP_B Pin=U2-P8
+Removed Pin From Net: NetName=LPDDR4_CLKN_B Pin=U2-P9
+Removed Pin From Net: NetName=LPDDR4_A5_B Pin=U2-P11
+Removed Pin From Net: NetName=LPDDR4_A0_B Pin=U2-R2
+Removed Pin From Net: NetName=LPDDR4_CS1n_B Pin=U2-R3
+Removed Pin From Net: NetName=LPDDR4_CS0n_B Pin=U2-R4
+Removed Pin From Net: NetName=LPDDR4_A2_B Pin=U2-R9
+Removed Pin From Net: NetName=LPDDR4_A3_B Pin=U2-R10
+Removed Pin From Net: NetName=LPDDR4_A4_B Pin=U2-R11
+Removed Pin From Net: NetName=LPDDR4_ODT0_CA_B Pin=U2-T2
+Removed Pin From Net: NetName=LPDDR4_RESETN Pin=U2-T11
+Removed Pin From Net: NetName=LPDDR4_DQ3_B Pin=U2-U2
+Removed Pin From Net: NetName=LPDDR4_DQ4_B Pin=U2-U4
+Removed Pin From Net: NetName=LPDDR4_DQ12_B Pin=U2-U9
+Removed Pin From Net: NetName=LPDDR4_DQ11_B Pin=U2-U11
+Removed Pin From Net: NetName=LPDDR4_DQ2_B Pin=U2-V2
+Removed Pin From Net: NetName=LPDDR4_DQS0N_B Pin=U2-V3
+Removed Pin From Net: NetName=LPDDR4_DQ5_B Pin=U2-V4
+Removed Pin From Net: NetName=LPDDR4_DQ13_B Pin=U2-V9
+Removed Pin From Net: NetName=LPDDR4_DQS1N_B Pin=U2-V10
+Removed Pin From Net: NetName=LPDDR4_DQ10_B Pin=U2-V11
+Removed Pin From Net: NetName=LPDDR4_DQS0P_B Pin=U2-W3
+Removed Pin From Net: NetName=LPDDR4_DQS1P_B Pin=U2-W10
+Removed Pin From Net: NetName=LPDDR4_DQ1_B Pin=U2-Y2
+Removed Pin From Net: NetName=LPDDR4_DM0_B Pin=U2-Y3
+Removed Pin From Net: NetName=LPDDR4_DQ6_B Pin=U2-Y4
+Removed Pin From Net: NetName=LPDDR4_DQ14_B Pin=U2-Y9
+Removed Pin From Net: NetName=LPDDR4_DM1_B Pin=U2-Y10
+Removed Pin From Net: NetName=LPDDR4_DQ9_B Pin=U2-Y11
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C73
+Removed Member From Class: ClassName=RK_POWER Member=C74
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C75
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C76
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C77
+Removed Member From Class: ClassName=RK_POWER Member=C78
+Removed Member From Class: ClassName=RK_POWER Member=C79
+Removed Member From Class: ClassName=RK_POWER Member=C80
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C81
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C82
+Removed Member From Class: ClassName=RK_POWER Member=C83
+Removed Member From Class: ClassName=DDR Member=U2
+Change Component Designator: OldDesignator=C1 NewDesignator=C54
+Change Component Designator: OldDesignator=C2 NewDesignator=C55
+Change Component Designator: OldDesignator=C3 NewDesignator=C56
+Change Component Designator: OldDesignator=C4 NewDesignator=C57
+Change Component Designator: OldDesignator=C5 NewDesignator=C58
+Change Component Designator: OldDesignator=C6 NewDesignator=C59
+Change Component Designator: OldDesignator=C7 NewDesignator=C60
+Change Component Designator: OldDesignator=C8 NewDesignator=C61
+Change Component Designator: OldDesignator=C9 NewDesignator=C62
+Change Component Designator: OldDesignator=C10 NewDesignator=C67
+Change Component Designator: OldDesignator=C11 NewDesignator=C68
+Change Component Designator: OldDesignator=C12 NewDesignator=C69
+Change Component Designator: OldDesignator=C13 NewDesignator=C63
+Change Component Designator: OldDesignator=C14 NewDesignator=C64
+Change Component Designator: OldDesignator=C15 NewDesignator=C65
+Change Component Designator: OldDesignator=C16 NewDesignator=C66
+Change Component Designator: OldDesignator=C17 NewDesignator=C70
+Change Component Designator: OldDesignator=C18 NewDesignator=C71
+Change Component Designator: OldDesignator=C19 NewDesignator=C72
+Change Component Designator: OldDesignator=C20 NewDesignator=C73
+Change Component Designator: OldDesignator=C21 NewDesignator=C74
+Change Component Designator: OldDesignator=C22 NewDesignator=C75
+Change Component Designator: OldDesignator=C23 NewDesignator=C76
+Change Component Designator: OldDesignator=C24 NewDesignator=C77
+Change Component Designator: OldDesignator=C25 NewDesignator=C78
+Change Component Designator: OldDesignator=C26 NewDesignator=C79
+Change Component Designator: OldDesignator=C27 NewDesignator=C80
+Change Component Designator: OldDesignator=C28 NewDesignator=C81
+Change Component Designator: OldDesignator=C29 NewDesignator=C82
+Change Component Designator: OldDesignator=C30 NewDesignator=C83
+Change Component Designator: OldDesignator=C31 NewDesignator=C84
+Change Component Designator: OldDesignator=C32 NewDesignator=C85
+Change Component Designator: OldDesignator=C33 NewDesignator=C86
+Change Component Designator: OldDesignator=C34 NewDesignator=C87
+Change Component Designator: OldDesignator=C35 NewDesignator=C88
+Change Component Designator: OldDesignator=C36 NewDesignator=C89
+Change Component Designator: OldDesignator=C37 NewDesignator=C90
+Change Component Designator: OldDesignator=C38 NewDesignator=C92
+Change Component Designator: OldDesignator=C39 NewDesignator=C93
+Change Component Designator: OldDesignator=C40 NewDesignator=C94
+Change Component Designator: OldDesignator=C41 NewDesignator=C96
+Change Component Designator: OldDesignator=C42 NewDesignator=C97
+Change Component Designator: OldDesignator=C43 NewDesignator=C101
+Change Component Designator: OldDesignator=C44 NewDesignator=C102
+Change Component Designator: OldDesignator=C45 NewDesignator=C104
+Change Component Designator: OldDesignator=C46 NewDesignator=C105
+Change Component Designator: OldDesignator=C47 NewDesignator=C106
+Change Component Designator: OldDesignator=C48 NewDesignator=C107
+Change Component Designator: OldDesignator=C49 NewDesignator=C108
+Change Component Designator: OldDesignator=C50 NewDesignator=C110
+Change Component Designator: OldDesignator=C51 NewDesignator=C91
+Change Component Designator: OldDesignator=C52 NewDesignator=C98
+Change Component Designator: OldDesignator=C53 NewDesignator=C100
+Change Component Designator: OldDesignator=C54 NewDesignator=C95
+Change Component Designator: OldDesignator=C55 NewDesignator=C99
+Change Component Designator: OldDesignator=C56 NewDesignator=C103
+Change Component Designator: OldDesignator=C57 NewDesignator=C109
+Change Component Designator: OldDesignator=C58 NewDesignator=C111
+Change Component Designator: OldDesignator=C59 NewDesignator=C112
+Change Component Designator: OldDesignator=C60 NewDesignator=C113
+Change Component Designator: OldDesignator=C61 NewDesignator=C114
+Change Component Designator: OldDesignator=C62 NewDesignator=C115
+Change Component Designator: OldDesignator=C63 NewDesignator=C116
+Change Component Designator: OldDesignator=C64 NewDesignator=C117
+Change Component Designator: OldDesignator=C65 NewDesignator=C118
+Change Component Designator: OldDesignator=C66 NewDesignator=C119
+Change Component Designator: OldDesignator=C67 NewDesignator=C120
+Change Component Designator: OldDesignator=C68 NewDesignator=C121
+Change Component Designator: OldDesignator=C69 NewDesignator=C122
+Change Component Designator: OldDesignator=C70 NewDesignator=C123
+Change Component Designator: OldDesignator=C71 NewDesignator=C124
+Change Component Designator: OldDesignator=C72 NewDesignator=C125
+Change Component Designator: OldDesignator=C73 NewDesignator=C43
+Change Component Designator: OldDesignator=C73 NewDesignator=C126
+Change Component Designator: OldDesignator=C74 NewDesignator=C44
+Change Component Designator: OldDesignator=C74 NewDesignator=C127
+Change Component Designator: OldDesignator=C75 NewDesignator=C45
+Change Component Designator: OldDesignator=C75 NewDesignator=C128
+Change Component Designator: OldDesignator=C76 NewDesignator=C46
+Change Component Designator: OldDesignator=C76 NewDesignator=C129
+Change Component Designator: OldDesignator=C77 NewDesignator=C47
+Change Component Designator: OldDesignator=C77 NewDesignator=C130
+Change Component Designator: OldDesignator=C78 NewDesignator=C48
+Change Component Designator: OldDesignator=C78 NewDesignator=C131
+Change Component Designator: OldDesignator=C79 NewDesignator=C49
+Change Component Designator: OldDesignator=C79 NewDesignator=C132
+Change Component Designator: OldDesignator=C80 NewDesignator=C50
+Change Component Designator: OldDesignator=C80 NewDesignator=C133
+Change Component Designator: OldDesignator=C81 NewDesignator=C51
+Change Component Designator: OldDesignator=C81 NewDesignator=C134
+Change Component Designator: OldDesignator=C82 NewDesignator=C52
+Change Component Designator: OldDesignator=C82 NewDesignator=C135
+Change Component Designator: OldDesignator=C83 NewDesignator=C53
+Change Component Designator: OldDesignator=C83 NewDesignator=C136
+Change Component Designator: OldDesignator=C84 NewDesignator=C137
+Change Component Designator: OldDesignator=C85 NewDesignator=C138
+Change Component Designator: OldDesignator=C86 NewDesignator=C139
+Change Component Designator: OldDesignator=C87 NewDesignator=C140
+Change Component Designator: OldDesignator=C88 NewDesignator=C141
+Change Component Designator: OldDesignator=C89 NewDesignator=C142
+Change Component Designator: OldDesignator=C90 NewDesignator=C143
+Change Component Designator: OldDesignator=C91 NewDesignator=C144
+Change Component Designator: OldDesignator=C92 NewDesignator=C145
+Change Component Designator: OldDesignator=C93 NewDesignator=C146
+Change Component Designator: OldDesignator=C94 NewDesignator=C147
+Change Component Designator: OldDesignator=C95 NewDesignator=C148
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=L2 NewDesignator=L3
+Change Component Designator: OldDesignator=L3 NewDesignator=L4
+Change Component Designator: OldDesignator=L4 NewDesignator=L5
+Change Component Designator: OldDesignator=L5 NewDesignator=L6
+Change Component Designator: OldDesignator=L6 NewDesignator=L7
+Change Component Designator: OldDesignator=L7 NewDesignator=L8
+Change Component Designator: OldDesignator=L8 NewDesignator=L9
+Change Component Designator: OldDesignator=L9 NewDesignator=L10
+Change Component Designator: OldDesignator=L10 NewDesignator=L1
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R2 NewDesignator=R9
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R16
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R28
+Change Component Designator: OldDesignator=R26 NewDesignator=R29
+Change Component Designator: OldDesignator=R27 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R33
+Change Component Designator: OldDesignator=R31 NewDesignator=R34
+Change Component Designator: OldDesignator=R32 NewDesignator=R35
+Change Component Designator: OldDesignator=R33 NewDesignator=R36
+Change Component Designator: OldDesignator=R34 NewDesignator=R37
+Change Component Designator: OldDesignator=R35 NewDesignator=R38
+Change Component Designator: OldDesignator=R36 NewDesignator=R41
+Change Component Designator: OldDesignator=R37 NewDesignator=R42
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R43
+Change Component Designator: OldDesignator=R41 NewDesignator=R44
+Change Component Designator: OldDesignator=R42 NewDesignator=R45
+Change Component Designator: OldDesignator=R43 NewDesignator=R46
+Change Component Designator: OldDesignator=R44 NewDesignator=R47
+Change Component Designator: OldDesignator=R45 NewDesignator=R48
+Change Component Designator: OldDesignator=R46 NewDesignator=R49
+Change Component Designator: OldDesignator=R47 NewDesignator=R50
+Change Component Designator: OldDesignator=R48 NewDesignator=R51
+Change Component Designator: OldDesignator=R49 NewDesignator=R54
+Change Component Designator: OldDesignator=R50 NewDesignator=R55
+Change Component Designator: OldDesignator=R51 NewDesignator=R52
+Change Component Designator: OldDesignator=R52 NewDesignator=R53
+Change Component Designator: OldDesignator=R53 NewDesignator=R56
+Change Component Designator: OldDesignator=R54 NewDesignator=R57
+Change Component Designator: OldDesignator=R55 NewDesignator=R58
+Change Component Designator: OldDesignator=R56 NewDesignator=R59
+Change Component Designator: OldDesignator=R57 NewDesignator=R60
+Change Component Designator: OldDesignator=R58 NewDesignator=R11
+Change Component Designator: OldDesignator=R59 NewDesignator=R12
+Change Component Designator: OldDesignator=R60 NewDesignator=R13
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U20
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Change Component Designator: OldDesignator=U10 NewDesignator=U9
+Change Component Designator: OldDesignator=U11 NewDesignator=U10
+Change Component Designator: OldDesignator=U12 NewDesignator=U11
+Change Component Designator: OldDesignator=U13 NewDesignator=U12
+Change Component Designator: OldDesignator=U14 NewDesignator=U21
+Change Component Designator: OldDesignator=U15 NewDesignator=U22
+Change Component Designator: OldDesignator=U16 NewDesignator=U13
+Change Component Designator: OldDesignator=U17 NewDesignator=U14
+Change Component Designator: OldDesignator=U18 NewDesignator=U15
+Change Component Designator: OldDesignator=U19 NewDesignator=U16
+Change Component Designator: OldDesignator=U20 NewDesignator=U17
+Change Component Designator: OldDesignator=U21 NewDesignator=U18
+Change Component Designator: OldDesignator=U22 NewDesignator=U23
+Change Component Designator: OldDesignator=U23 NewDesignator=U24
+Change Component Designator: OldDesignator=U24 NewDesignator=U19
+Change Component Designator: OldDesignator=X1 NewDesignator=X2
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change Component Designator: OldDesignator=X3 NewDesignator=X1
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(C0603)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(C0402)
+Added Component: Designator=C5(C0402)
+Added Component: Designator=C6(C0402)
+Added Component: Designator=C7(C0402)
+Added Component: Designator=C8(C0402)
+Added Component: Designator=C9(C0402)
+Added Component: Designator=C10(C0402)
+Added Component: Designator=C11(C0402)
+Added Component: Designator=C12(C0402)
+Added Component: Designator=C13(C0402)
+Added Component: Designator=C14(C0402)
+Added Component: Designator=C15(C0402)
+Added Component: Designator=C16(C0402)
+Added Component: Designator=C17(C0402)
+Added Component: Designator=C18(C0402)
+Added Component: Designator=C19(C0402)
+Added Component: Designator=C20(C0402)
+Added Component: Designator=C21(C0603)
+Added Component: Designator=C22(C0603)
+Added Component: Designator=C23(C0603)
+Added Component: Designator=C24(C0402)
+Added Component: Designator=C25(C0402)
+Added Component: Designator=C26(C0402)
+Added Component: Designator=C27(C0402)
+Added Component: Designator=C28(C0402)
+Added Component: Designator=C29(C0402)
+Added Component: Designator=C30(C0402)
+Added Component: Designator=C31(C0402)
+Added Component: Designator=C32(C0402)
+Added Component: Designator=C33(C0402)
+Added Component: Designator=C34(C0402)
+Added Component: Designator=C35(C0402)
+Added Component: Designator=C36(C0402)
+Added Component: Designator=C37(C0402)
+Added Component: Designator=C38(C0402)
+Added Component: Designator=C39(C0402)
+Added Component: Designator=C40(C0402)
+Added Component: Designator=C41(C0402)
+Added Component: Designator=C42(C0402)
+Added Component: Designator=C149(C0402)
+Added Component: Designator=C150(C0603)
+Added Component: Designator=C151(C0402)
+Added Component: Designator=C152(C0402)
+Added Component: Designator=C153(C0402)
+Added Component: Designator=C154(C0603)
+Added Component: Designator=C155(C0402)
+Added Component: Designator=C156(C0402)
+Added Component: Designator=C157(C0402)
+Added Component: Designator=R61(R0402)
+Added Component: Designator=R62(R0402)
+Added Component: Designator=R63(R0402)
+Added Component: Designator=U1(FBGA-200_L15.0-W10.0-BL_H9HCNNNBKUMLXR)
+Add component (AddParameter): Name = "Symbol"; Value = "H9HCNNNBKUMLXR-NEE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_GPU Pin=C1-1
+Added Pin To Net: NetName=VCC_DDR Pin=C1-2
+Added Pin To Net: NetName=VDD_GPU Pin=C2-1
+Added Pin To Net: NetName=VCC_DDR Pin=C2-2
+Added Pin To Net: NetName=VDD_GPU Pin=C3-1
+Added Pin To Net: NetName=VCC_DDR Pin=C3-2
+Added Pin To Net: NetName=VDD_GPU Pin=C4-1
+Added Pin To Net: NetName=VCC_DDR Pin=C4-2
+Added Pin To Net: NetName=VDD_GPU Pin=C5-1
+Added Pin To Net: NetName=VCC_DDR Pin=C5-2
+Added Pin To Net: NetName=VDD_GPU Pin=C6-1
+Added Pin To Net: NetName=VCC_DDR Pin=C6-2
+Added Pin To Net: NetName=VDD_GPU Pin=C7-1
+Added Pin To Net: NetName=VCC_DDR Pin=C7-2
+Added Pin To Net: NetName=VDD_GPU Pin=C8-1
+Added Pin To Net: NetName=VCC_DDR Pin=C8-2
+Added Pin To Net: NetName=VDD_GPU Pin=C9-1
+Added Pin To Net: NetName=VCC_DDR Pin=C9-2
+Added Pin To Net: NetName=VDD_GPU Pin=C10-1
+Added Pin To Net: NetName=VCC_DDR Pin=C10-2
+Added Pin To Net: NetName=VDD_GPU Pin=C11-1
+Added Pin To Net: NetName=VCC_DDR Pin=C11-2
+Added Pin To Net: NetName=VDD_GPU Pin=C12-1
+Added Pin To Net: NetName=VCC_DDR Pin=C12-2
+Added Pin To Net: NetName=VDD_GPU Pin=C13-1
+Added Pin To Net: NetName=VCC_DDR Pin=C13-2
+Added Pin To Net: NetName=VDD_GPU Pin=C14-1
+Added Pin To Net: NetName=VCC_DDR Pin=C14-2
+Added Pin To Net: NetName=VDD_GPU Pin=C15-1
+Added Pin To Net: NetName=VCC_DDR Pin=C15-2
+Added Pin To Net: NetName=VDD_GPU Pin=C16-1
+Added Pin To Net: NetName=VCC_DDR Pin=C16-2
+Added Pin To Net: NetName=VDD_GPU Pin=C17-1
+Added Pin To Net: NetName=VCC_DDR Pin=C17-2
+Added Pin To Net: NetName=VDD_GPU Pin=C18-1
+Added Pin To Net: NetName=VCC_DDR Pin=C18-2
+Added Pin To Net: NetName=VDD_GPU Pin=C19-1
+Added Pin To Net: NetName=VCC_DDR Pin=C19-2
+Added Pin To Net: NetName=VDD_GPU Pin=C20-1
+Added Pin To Net: NetName=VCC_DDR Pin=C20-2
+Added Pin To Net: NetName=VDD_GPU Pin=C21-1
+Added Pin To Net: NetName=VDD_GPU Pin=C22-1
+Added Pin To Net: NetName=VDD_GPU Pin=C23-1
+Added Pin To Net: NetName=VDD_GPU Pin=C24-1
+Added Pin To Net: NetName=VDD_GPU Pin=C25-1
+Added Pin To Net: NetName=VDD_GPU Pin=C26-1
+Added Pin To Net: NetName=VDD_GPU Pin=C27-1
+Added Pin To Net: NetName=VDD_GPU Pin=C28-1
+Added Pin To Net: NetName=VDD_GPU Pin=C29-1
+Added Pin To Net: NetName=VDD_GPU Pin=C30-1
+Added Pin To Net: NetName=VDD_GPU Pin=C31-1
+Added Pin To Net: NetName=VDD_GPU Pin=C32-1
+Added Pin To Net: NetName=VDD_GPU Pin=C33-1
+Added Pin To Net: NetName=VDD_GPU Pin=C34-1
+Added Pin To Net: NetName=VDD_GPU Pin=C35-1
+Added Pin To Net: NetName=VDD_GPU Pin=C36-1
+Added Pin To Net: NetName=VDD_GPU Pin=C37-1
+Added Pin To Net: NetName=VDD_GPU Pin=C38-1
+Added Pin To Net: NetName=VDD_GPU Pin=C39-1
+Added Pin To Net: NetName=VDD_GPU Pin=C40-1
+Added Pin To Net: NetName=VDD_GPU Pin=C41-1
+Added Pin To Net: NetName=VDD_GPU Pin=C42-1
+Added Pin To Net: NetName=VDD_GPU Pin=C149-1
+Added Pin To Net: NetName=LPDDR4_RESETN Pin=C149-2
+Added Pin To Net: NetName=VDD_GPU Pin=C150-1
+Added Pin To Net: NetName=VDD_GPU Pin=C151-1
+Added Pin To Net: NetName=VDD_GPU Pin=C152-1
+Added Pin To Net: NetName=VDD_GPU Pin=C153-1
+Added Pin To Net: NetName=VDD_GPU Pin=C154-1
+Added Pin To Net: NetName=VDD_GPU Pin=C155-1
+Added Pin To Net: NetName=VDD_GPU Pin=C156-1
+Added Pin To Net: NetName=VDD_GPU Pin=C157-1
+Added Pin To Net: NetName=VDD_GPU Pin=U1-A3
+Added Pin To Net: NetName=VCC_DDR Pin=U1-A4
+Added Pin To Net: NetName=VCC_DDR Pin=U1-A9
+Added Pin To Net: NetName=VDD_GPU Pin=U1-A10
+Added Pin To Net: NetName=LPDDR4_DQ0_B Pin=U1-AA2
+Added Pin To Net: NetName=LPDDR4_DQ7_B Pin=U1-AA4
+Added Pin To Net: NetName=LPDDR4_DQ15_B Pin=U1-AA9
+Added Pin To Net: NetName=LPDDR4_DQ8_B Pin=U1-AA11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-AB3
+Added Pin To Net: NetName=VCC_DDR Pin=U1-AB4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-AB5
+Added Pin To Net: NetName=VDD_GPU Pin=U1-AB8
+Added Pin To Net: NetName=VCC_DDR Pin=U1-AB9
+Added Pin To Net: NetName=VDD_GPU Pin=U1-AB10
+Added Pin To Net: NetName=LPDDR4_DQ0_A Pin=U1-B2
+Added Pin To Net: NetName=LPDDR4_DQ7_A Pin=U1-B4
+Added Pin To Net: NetName=LPDDR4_DQ15_A Pin=U1-B9
+Added Pin To Net: NetName=LPDDR4_DQ8_A Pin=U1-B11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-C1
+Added Pin To Net: NetName=LPDDR4_DQ1_A Pin=U1-C2
+Added Pin To Net: NetName=LPDDR4_DM0_A Pin=U1-C3
+Added Pin To Net: NetName=LPDDR4_DQ6_A Pin=U1-C4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-C5
+Added Pin To Net: NetName=VDD_GPU Pin=U1-C8
+Added Pin To Net: NetName=LPDDR4_DQ14_A Pin=U1-C9
+Added Pin To Net: NetName=LPDDR4_DM1_A Pin=U1-C10
+Added Pin To Net: NetName=LPDDR4_DQ9_A Pin=U1-C11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-C12
+Added Pin To Net: NetName=VDD_GPU Pin=U1-D2
+Added Pin To Net: NetName=LPDDR4_DQS0P_A Pin=U1-D3
+Added Pin To Net: NetName=VDD_GPU Pin=U1-D4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-D9
+Added Pin To Net: NetName=LPDDR4_DQS1P_A Pin=U1-D10
+Added Pin To Net: NetName=VDD_GPU Pin=U1-D11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-E1
+Added Pin To Net: NetName=LPDDR4_DQ2_A Pin=U1-E2
+Added Pin To Net: NetName=LPDDR4_DQS0N_A Pin=U1-E3
+Added Pin To Net: NetName=LPDDR4_DQ5_A Pin=U1-E4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-E5
+Added Pin To Net: NetName=VDD_GPU Pin=U1-E8
+Added Pin To Net: NetName=LPDDR4_DQ13_A Pin=U1-E9
+Added Pin To Net: NetName=LPDDR4_DQS1N_A Pin=U1-E10
+Added Pin To Net: NetName=LPDDR4_DQ10_A Pin=U1-E11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-E12
+Added Pin To Net: NetName=LPDDR4_DQ3_A Pin=U1-F2
+Added Pin To Net: NetName=LPDDR4_DQ4_A Pin=U1-F4
+Added Pin To Net: NetName=VCC_DDR Pin=U1-F5
+Added Pin To Net: NetName=VCC_DDR Pin=U1-F8
+Added Pin To Net: NetName=LPDDR4_DQ12_A Pin=U1-F9
+Added Pin To Net: NetName=LPDDR4_DQ11_A Pin=U1-F11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-G1
+Added Pin To Net: NetName=LPDDR4_ODT0_CA_A Pin=U1-G2
+Added Pin To Net: NetName=VDD_GPU Pin=U1-G3
+Added Pin To Net: NetName=VDD_GPU Pin=U1-G5
+Added Pin To Net: NetName=VDD_GPU Pin=U1-G8
+Added Pin To Net: NetName=VDD_GPU Pin=U1-G10
+Added Pin To Net: NetName=VDD_GPU Pin=U1-G12
+Added Pin To Net: NetName=VCC_DDR Pin=U1-H1
+Added Pin To Net: NetName=LPDDR4_A0_A Pin=U1-H2
+Added Pin To Net: NetName=LPDDR4_CS1n_A Pin=U1-H3
+Added Pin To Net: NetName=LPDDR4_CS0n_A Pin=U1-H4
+Added Pin To Net: NetName=VCC_DDR Pin=U1-H5
+Added Pin To Net: NetName=VCC_DDR Pin=U1-H8
+Added Pin To Net: NetName=LPDDR4_A2_A Pin=U1-H9
+Added Pin To Net: NetName=LPDDR4_A3_A Pin=U1-H10
+Added Pin To Net: NetName=LPDDR4_A4_A Pin=U1-H11
+Added Pin To Net: NetName=VCC_DDR Pin=U1-H12
+Added Pin To Net: NetName=VDD_GPU Pin=U1-J1
+Added Pin To Net: NetName=LPDDR4_A1_A Pin=U1-J2
+Added Pin To Net: NetName=VDD_GPU Pin=U1-J3
+Added Pin To Net: NetName=LPDDR4_CKE0_A Pin=U1-J4
+Added Pin To Net: NetName=LPDDR4_CKE1_A Pin=U1-J5
+Added Pin To Net: NetName=LPDDR4_CLKP_A Pin=U1-J8
+Added Pin To Net: NetName=LPDDR4_CLKN_A Pin=U1-J9
+Added Pin To Net: NetName=VDD_GPU Pin=U1-J10
+Added Pin To Net: NetName=LPDDR4_A5_A Pin=U1-J11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-J12
+Added Pin To Net: NetName=VCC_DDR Pin=U1-K1
+Added Pin To Net: NetName=VDD_GPU Pin=U1-K2
+Added Pin To Net: NetName=VCC_DDR Pin=U1-K3
+Added Pin To Net: NetName=VDD_GPU Pin=U1-K4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-K9
+Added Pin To Net: NetName=VCC_DDR Pin=U1-K10
+Added Pin To Net: NetName=VDD_GPU Pin=U1-K11
+Added Pin To Net: NetName=VCC_DDR Pin=U1-K12
+Added Pin To Net: NetName=VCC_DDR Pin=U1-N1
+Added Pin To Net: NetName=VDD_GPU Pin=U1-N2
+Added Pin To Net: NetName=VCC_DDR Pin=U1-N3
+Added Pin To Net: NetName=VDD_GPU Pin=U1-N4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-N9
+Added Pin To Net: NetName=VCC_DDR Pin=U1-N10
+Added Pin To Net: NetName=VDD_GPU Pin=U1-N11
+Added Pin To Net: NetName=VCC_DDR Pin=U1-N12
+Added Pin To Net: NetName=VDD_GPU Pin=U1-P1
+Added Pin To Net: NetName=LPDDR4_A1_B Pin=U1-P2
+Added Pin To Net: NetName=VDD_GPU Pin=U1-P3
+Added Pin To Net: NetName=LPDDR4_CKE0_B Pin=U1-P4
+Added Pin To Net: NetName=LPDDR4_CKE1_B Pin=U1-P5
+Added Pin To Net: NetName=LPDDR4_CLKP_B Pin=U1-P8
+Added Pin To Net: NetName=LPDDR4_CLKN_B Pin=U1-P9
+Added Pin To Net: NetName=VDD_GPU Pin=U1-P10
+Added Pin To Net: NetName=LPDDR4_A5_B Pin=U1-P11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-P12
+Added Pin To Net: NetName=VCC_DDR Pin=U1-R1
+Added Pin To Net: NetName=LPDDR4_A0_B Pin=U1-R2
+Added Pin To Net: NetName=LPDDR4_CS1n_B Pin=U1-R3
+Added Pin To Net: NetName=LPDDR4_CS0n_B Pin=U1-R4
+Added Pin To Net: NetName=VCC_DDR Pin=U1-R5
+Added Pin To Net: NetName=VCC_DDR Pin=U1-R8
+Added Pin To Net: NetName=LPDDR4_A2_B Pin=U1-R9
+Added Pin To Net: NetName=LPDDR4_A3_B Pin=U1-R10
+Added Pin To Net: NetName=LPDDR4_A4_B Pin=U1-R11
+Added Pin To Net: NetName=VCC_DDR Pin=U1-R12
+Added Pin To Net: NetName=VDD_GPU Pin=U1-T1
+Added Pin To Net: NetName=LPDDR4_ODT0_CA_B Pin=U1-T2
+Added Pin To Net: NetName=VDD_GPU Pin=U1-T3
+Added Pin To Net: NetName=VDD_GPU Pin=U1-T5
+Added Pin To Net: NetName=VDD_GPU Pin=U1-T8
+Added Pin To Net: NetName=VDD_GPU Pin=U1-T10
+Added Pin To Net: NetName=LPDDR4_RESETN Pin=U1-T11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-T12
+Added Pin To Net: NetName=LPDDR4_DQ3_B Pin=U1-U2
+Added Pin To Net: NetName=LPDDR4_DQ4_B Pin=U1-U4
+Added Pin To Net: NetName=VCC_DDR Pin=U1-U5
+Added Pin To Net: NetName=VCC_DDR Pin=U1-U8
+Added Pin To Net: NetName=LPDDR4_DQ12_B Pin=U1-U9
+Added Pin To Net: NetName=LPDDR4_DQ11_B Pin=U1-U11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-V1
+Added Pin To Net: NetName=LPDDR4_DQ2_B Pin=U1-V2
+Added Pin To Net: NetName=LPDDR4_DQS0N_B Pin=U1-V3
+Added Pin To Net: NetName=LPDDR4_DQ5_B Pin=U1-V4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-V5
+Added Pin To Net: NetName=VDD_GPU Pin=U1-V8
+Added Pin To Net: NetName=LPDDR4_DQ13_B Pin=U1-V9
+Added Pin To Net: NetName=LPDDR4_DQS1N_B Pin=U1-V10
+Added Pin To Net: NetName=LPDDR4_DQ10_B Pin=U1-V11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-V12
+Added Pin To Net: NetName=VDD_GPU Pin=U1-W2
+Added Pin To Net: NetName=LPDDR4_DQS0P_B Pin=U1-W3
+Added Pin To Net: NetName=VDD_GPU Pin=U1-W4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-W9
+Added Pin To Net: NetName=LPDDR4_DQS1P_B Pin=U1-W10
+Added Pin To Net: NetName=VDD_GPU Pin=U1-W11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-Y1
+Added Pin To Net: NetName=LPDDR4_DQ1_B Pin=U1-Y2
+Added Pin To Net: NetName=LPDDR4_DM0_B Pin=U1-Y3
+Added Pin To Net: NetName=LPDDR4_DQ6_B Pin=U1-Y4
+Added Pin To Net: NetName=VDD_GPU Pin=U1-Y5
+Added Pin To Net: NetName=VDD_GPU Pin=U1-Y8
+Added Pin To Net: NetName=LPDDR4_DQ14_B Pin=U1-Y9
+Added Pin To Net: NetName=LPDDR4_DM1_B Pin=U1-Y10
+Added Pin To Net: NetName=LPDDR4_DQ9_B Pin=U1-Y11
+Added Pin To Net: NetName=VDD_GPU Pin=U1-Y12
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC61_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC62_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC69_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC63_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC63_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC64_1
+Change Net Name : Old Net Name=NetC45_2 New Net Name=NetC104_2
+Change Net Name : Old Net Name=NetC52_2 New Net Name=NetC98_2
+Change Net Name : Old Net Name=NetC53_2 New Net Name=NetC100_2
+Change Net Name : Old Net Name=NetC54_1 New Net Name=NetC95_1
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC99_1
+Change Net Name : Old Net Name=NetC56_2 New Net Name=NetC103_2
+Change Net Name : Old Net Name=NetC57_1 New Net Name=NetC109_1
+Change Net Name : Old Net Name=NetC57_2 New Net Name=NetC109_2
+Change Net Name : Old Net Name=NetC58_1 New Net Name=NetC111_1
+Change Net Name : Old Net Name=NetC59_2 New Net Name=NetC112_2
+Change Net Name : Old Net Name=NetC63_1 New Net Name=NetC116_1
+Change Net Name : Old Net Name=NetC73_1 New Net Name=NetC43_1
+Change Net Name : Old Net Name=NetC74_1 New Net Name=NetC44_1
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetL3_1
+Change Net Name : Old Net Name=NetL3_2 New Net Name=NetL4_2
+Change Net Name : Old Net Name=NetL4_2 New Net Name=NetL5_2
+Change Net Name : Old Net Name=NetL5_1 New Net Name=NetL6_1
+Change Net Name : Old Net Name=NetL6_2 New Net Name=NetL7_2
+Change Net Name : Old Net Name=NetL7_2 New Net Name=NetL8_2
+Change Net Name : Old Net Name=NetL8_2 New Net Name=NetL9_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR45_1
+Change Net Name : Old Net Name=NetR46_2 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetR49_1 New Net Name=NetR54_1
+Change Net Name : Old Net Name=NetR59_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetU4_50 New Net Name=NetU20_50
+Change Net Name : Old Net Name=NetU4_51 New Net Name=NetU20_51
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=NetR61_1 Pin=U1-A8
+Added Net: Name=NetR61_1
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=U1-A5
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C21-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C22-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C23-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C24-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C25-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C26-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C27-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C28-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C29-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C30-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C31-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C32-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C33-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C34-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C35-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C36-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C37-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C38-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C39-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C40-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C41-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C42-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=R61-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=R62-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-AA3
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-AA5
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-AA8
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-AA10
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-B3
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-B5
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-B8
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-B10
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-D1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-D5
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-D8
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-D12
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-F3
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-F10
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-U3
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-U10
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-W1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-W5
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-W8
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U1-W12
+Added Net: Name=VCC0V6_DDR
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C150-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C151-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C152-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C153-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C154-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C155-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C156-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=C157-2
+Added Pin To Net: NetName=VCC1V8_DDR Pin=R63-1
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-F1
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-F12
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-G4
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-G9
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-T4
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-T9
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-U1
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U1-U12
+Added Net: Name=VCC1V8_DDR
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists
+Added Member To Class: ClassName=DDR Member=Component C1 22uF
+Added Member To Class: ClassName=DDR Member=Component C2 10uF
+Added Member To Class: ClassName=DDR Member=Component C3 10uF
+Added Member To Class: ClassName=DDR Member=Component C4 1uF
+Added Member To Class: ClassName=DDR Member=Component C5 100nF
+Added Member To Class: ClassName=DDR Member=Component C6 100nF
+Added Member To Class: ClassName=DDR Member=Component C7 100nF
+Added Member To Class: ClassName=DDR Member=Component C8 100nF
+Added Member To Class: ClassName=DDR Member=Component C9 100nF
+Added Member To Class: ClassName=DDR Member=Component C10 100nF
+Added Member To Class: ClassName=DDR Member=Component C11 100nF
+Added Member To Class: ClassName=DDR Member=Component C12 100nF
+Added Member To Class: ClassName=DDR Member=Component C13 100nF
+Added Member To Class: ClassName=DDR Member=Component C14 100nF
+Added Member To Class: ClassName=DDR Member=Component C15 100nF
+Added Member To Class: ClassName=DDR Member=Component C16 100nF
+Added Member To Class: ClassName=DDR Member=Component C17 100nF
+Added Member To Class: ClassName=DDR Member=Component C18 100nF
+Added Member To Class: ClassName=DDR Member=Component C19 100nF
+Added Member To Class: ClassName=DDR Member=Component C20 100nF
+Added Member To Class: ClassName=DDR Member=Component C21 22uF
+Added Member To Class: ClassName=DDR Member=Component C22 10uF
+Added Member To Class: ClassName=DDR Member=Component C23 10uF
+Added Member To Class: ClassName=DDR Member=Component C24 1uF
+Added Member To Class: ClassName=DDR Member=Component C25 100nF
+Added Member To Class: ClassName=DDR Member=Component C26 100nF
+Added Member To Class: ClassName=DDR Member=Component C27 100nF
+Added Member To Class: ClassName=DDR Member=Component C28 100nF
+Added Member To Class: ClassName=DDR Member=Component C29 100nF
+Added Member To Class: ClassName=DDR Member=Component C30 100nF
+Added Member To Class: ClassName=DDR Member=Component C31 100nF
+Added Member To Class: ClassName=DDR Member=Component C32 100nF
+Added Member To Class: ClassName=DDR Member=Component C33 100nF
+Added Member To Class: ClassName=DDR Member=Component C34 100nF
+Added Member To Class: ClassName=DDR Member=Component C35 100nF
+Added Member To Class: ClassName=DDR Member=Component C36 100nF
+Added Member To Class: ClassName=DDR Member=Component C37 100nF
+Added Member To Class: ClassName=DDR Member=Component C38 100nF
+Added Member To Class: ClassName=DDR Member=Component C39 100nF
+Added Member To Class: ClassName=DDR Member=Component C40 100nF
+Added Member To Class: ClassName=DDR Member=Component C41 100nF
+Added Member To Class: ClassName=DDR Member=Component C42 100nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C43 1nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C45 10pF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C46 100nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C47 1uF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C51 12pF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C52 4.7uF
+Added Member To Class: ClassName=RK_POWER Member=Component C127 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C131 100nF
+Added Member To Class: ClassName=RK_POWER Member=Component C132 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C133 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C136 4.7uF
+Added Member To Class: ClassName=DDR Member=Component C149 NC
+Added Member To Class: ClassName=DDR Member=Component C150 10uF
+Added Member To Class: ClassName=DDR Member=Component C151 100nF
+Added Member To Class: ClassName=DDR Member=Component C152 100nF
+Added Member To Class: ClassName=DDR Member=Component C153 100nF
+Added Member To Class: ClassName=DDR Member=Component C154 10uF
+Added Member To Class: ClassName=DDR Member=Component C155 100nF
+Added Member To Class: ClassName=DDR Member=Component C156 100nF
+Added Member To Class: ClassName=DDR Member=Component C157 100nF
+Added Member To Class: ClassName=DDR Member=Component R61 240O
+Added Member To Class: ClassName=DDR Member=Component R62 240O
+Added Member To Class: ClassName=DDR Member=Component R63 0O
+Added Member To Class: ClassName=DDR Member=Component U1 LPDDR4
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_18

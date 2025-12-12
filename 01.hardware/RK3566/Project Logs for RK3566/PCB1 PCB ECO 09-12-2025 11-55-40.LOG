@@ -1,0 +1,39 @@
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=C?-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=C?-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=C?-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=C?-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=C?-2
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists
+Added Member To Class: ClassName=FLASH_SD Member=Component C159 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 4.7uF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 4.7uF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component R65 10kO

@@ -1,0 +1,293 @@
+Removed Member From Class: ClassName=DDR Member=C43
+Removed Member From Class: ClassName=POWER_PMIC Member=C43
+Removed Member From Class: ClassName=RK_POWER Member=C43
+Removed Member From Class: ClassName=DDR Member=C50
+Removed Member From Class: ClassName=POWER_PMIC Member=C50
+Removed Member From Class: ClassName=DDR Member=C52
+Removed Member From Class: ClassName=POWER_PMIC Member=C52
+Removed Member From Class: ClassName=DDR Member=C53
+Removed Member From Class: ClassName=POWER_PMIC Member=C53
+Removed Member From Class: ClassName=DDR Member=C55
+Removed Member From Class: ClassName=DDR Member=C58
+Removed Member From Class: ClassName=DDR Member=C63
+Removed Member From Class: ClassName=DDR Member=C64
+Removed Member From Class: ClassName=DDR Member=C69
+Removed Member From Class: ClassName=DDR Member=C71
+Removed Member From Class: ClassName=DDR Member=C77
+Removed Member From Class: ClassName=DDR Member=C85
+Removed Member From Class: ClassName=DDR Member=C91
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C91
+Removed Member From Class: ClassName=DDR Member=C94
+Removed Member From Class: ClassName=DDR Member=C96
+Removed Member From Class: ClassName=DDR Member=C97
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C98
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C101
+Removed Member From Class: ClassName=DDR Member=C103
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=C103
+Removed Member From Class: ClassName=DDR Member=C104
+Removed Member From Class: ClassName=RK_POWER Member=C104
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C104
+Removed Member From Class: ClassName=RK_POWER Member=C105
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C105
+Removed Member From Class: ClassName=RK_POWER Member=C106
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C106
+Removed Member From Class: ClassName=DDR Member=C109
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=C109
+Removed Member From Class: ClassName=DDR Member=C112
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=C112
+Removed Member From Class: ClassName=DDR Member=C113
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=C113
+Removed Member From Class: ClassName=DDR Member=C114
+Removed Member From Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=C114
+Removed Member From Class: ClassName=DDR Member=C115
+Removed Member From Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=C115
+Removed Member From Class: ClassName=DDR Member=C118
+Removed Member From Class: ClassName=PWOER Member=C118
+Removed Member From Class: ClassName=DDR Member=C119
+Removed Member From Class: ClassName=PWOER Member=C119
+Removed Member From Class: ClassName=DDR Member=C120
+Removed Member From Class: ClassName=PWOER Member=C120
+Removed Member From Class: ClassName=DDR Member=C121
+Removed Member From Class: ClassName=PWOER Member=C121
+Removed Member From Class: ClassName=DDR Member=C123
+Removed Member From Class: ClassName=POWER_PMIC Member=C123
+Removed Member From Class: ClassName=DDR Member=C125
+Removed Member From Class: ClassName=POWER_PMIC Member=C125
+Removed Member From Class: ClassName=DDR Member=C127
+Removed Member From Class: ClassName=POWER_PMIC Member=C127
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C127
+Removed Member From Class: ClassName=DDR Member=C129
+Removed Member From Class: ClassName=POWER_PMIC Member=C129
+Removed Member From Class: ClassName=DDR Member=C131
+Removed Member From Class: ClassName=POWER_PMIC Member=C131
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C131
+Removed Member From Class: ClassName=DDR Member=C132
+Removed Member From Class: ClassName=POWER_PMIC Member=C132
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C132
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C133
+Removed Member From Class: ClassName=Wi-Fi_BT Member=C136
+Removed Member From Class: ClassName=DDR Member=C137
+Removed Member From Class: ClassName=POWER_PMIC Member=C137
+Removed Member From Class: ClassName=DDR Member=C139
+Removed Member From Class: ClassName=POWER_PMIC Member=C139
+Removed Member From Class: ClassName=DDR Member=C140
+Removed Member From Class: ClassName=POWER_PMIC Member=C140
+Removed Member From Class: ClassName=DDR Member=C141
+Removed Member From Class: ClassName=POWER_PMIC Member=C141
+Removed Member From Class: ClassName=DDR Member=C142
+Removed Member From Class: ClassName=POWER_PMIC Member=C142
+Removed Member From Class: ClassName=DDR Member=C143
+Removed Member From Class: ClassName=POWER_PMIC Member=C143
+Removed Member From Class: ClassName=DDR Member=C145
+Removed Member From Class: ClassName=POWER_PMIC Member=C145
+Removed Member From Class: ClassName=DDR Member=C146
+Removed Member From Class: ClassName=POWER_PMIC Member=C146
+Removed Member From Class: ClassName=DDR Member=C148
+Removed Member From Class: ClassName=POWER_PMIC Member=C148
+Removed Member From Class: ClassName=RK_VO_Interface Member=C148
+Removed Member From Class: ClassName=PWOER Member=L3
+Removed Member From Class: ClassName=Wi-Fi_BT Member=L3
+Removed Member From Class: ClassName=RK_FLASH_SD_SARADC Member=R5
+Removed Member From Class: ClassName=RK_FLASH_SD_SARADC Member=R6
+Removed Member From Class: ClassName=POWER_EXTENSION Member=R12
+Removed Member From Class: ClassName=HDMI Member=R23
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=R41
+Removed Member From Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=R41
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=R42
+Removed Member From Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=R42
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=R57
+Removed Member From Class: ClassName=POWER_PMIC Member=R57
+Removed Member From Class: ClassName=PWOER Member=R57
+Removed Member From Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=R57
+Removed Member From Class: ClassName=POWER_PMIC Member=R58
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=U12
+Removed Member From Class: ClassName=FLASH_SD Member=U20
+Removed Member From Class: ClassName=MIPI_DSI_TP Member=U22
+Removed Member From Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=X3
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=VDD_GPU Pin=C?-1
+Added Pin To Net: NetName=EMMC_RSTN Pin=C?-2
+Added Pin To Net: NetName=EMMC_CMD Pin=R?-1
+Added Pin To Net: NetName=EMMC_DATA_STROBE Pin=R?-1
+Added Pin To Net: NetName=EMMC_RSTN Pin=R?-1
+Added Pin To Net: NetName=VDD_GPU Pin=R?-2
+Added Pin To Net: NetName=VDD_GPU Pin=U3-A6
+Added Pin To Net: NetName=VDD_GPU Pin=U3-C4
+Added Pin To Net: NetName=VCC_3V3 Pin=U3-E6
+Added Pin To Net: NetName=VDD_GPU Pin=U3-E7
+Added Pin To Net: NetName=VCC_3V3 Pin=U3-F5
+Added Pin To Net: NetName=VDD_GPU Pin=U3-G5
+Added Pin To Net: NetName=VDD_GPU Pin=U3-H10
+Added Pin To Net: NetName=VDD_GPU Pin=U3-J5
+Added Pin To Net: NetName=VCC_3V3 Pin=U3-J10
+Added Pin To Net: NetName=VDD_GPU Pin=U3-K8
+Added Pin To Net: NetName=VCC_3V3 Pin=U3-K9
+Added Pin To Net: NetName=VDD_GPU Pin=U3-N2
+Added Pin To Net: NetName=VDD_GPU Pin=U3-N5
+Added Pin To Net: NetName=VDD_GPU Pin=U3-P4
+Added Pin To Net: NetName=VDD_GPU Pin=U3-P6
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U3-C2
+Added Net: Name=NetC?_2
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Added Pin To Net: NetName=VCCIO_FLASH Pin=R?-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=R?-2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U3-C6
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U3-M4
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U3-N4
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U3-P3
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U3-P5
+Added Net: Name=VCCIO_FLASH
+Add Net: Net with name "VCCIO_WL" already exists
+Added Member To Class: ClassName=DDR Member=Component C1 22uF
+Added Member To Class: ClassName=DDR Member=Component C2 10uF
+Added Member To Class: ClassName=DDR Member=Component C3 10uF
+Added Member To Class: ClassName=DDR Member=Component C4 1uF
+Added Member To Class: ClassName=DDR Member=Component C5 100nF
+Added Member To Class: ClassName=DDR Member=Component C6 100nF
+Added Member To Class: ClassName=DDR Member=Component C7 100nF
+Added Member To Class: ClassName=DDR Member=Component C8 100nF
+Added Member To Class: ClassName=DDR Member=Component C9 100nF
+Added Member To Class: ClassName=DDR Member=Component C10 100nF
+Added Member To Class: ClassName=DDR Member=Component C11 100nF
+Added Member To Class: ClassName=DDR Member=Component C12 100nF
+Added Member To Class: ClassName=DDR Member=Component C13 100nF
+Added Member To Class: ClassName=DDR Member=Component C14 100nF
+Added Member To Class: ClassName=DDR Member=Component C15 100nF
+Added Member To Class: ClassName=DDR Member=Component C16 100nF
+Added Member To Class: ClassName=DDR Member=Component C17 100nF
+Added Member To Class: ClassName=DDR Member=Component C18 100nF
+Added Member To Class: ClassName=DDR Member=Component C19 100nF
+Added Member To Class: ClassName=DDR Member=Component C20 100nF
+Added Member To Class: ClassName=DDR Member=Component C21 22uF
+Added Member To Class: ClassName=DDR Member=Component C22 10uF
+Added Member To Class: ClassName=DDR Member=Component C23 10uF
+Added Member To Class: ClassName=DDR Member=Component C24 1uF
+Added Member To Class: ClassName=DDR Member=Component C25 100nF
+Added Member To Class: ClassName=DDR Member=Component C26 100nF
+Added Member To Class: ClassName=DDR Member=Component C27 100nF
+Added Member To Class: ClassName=DDR Member=Component C28 100nF
+Added Member To Class: ClassName=DDR Member=Component C29 100nF
+Added Member To Class: ClassName=DDR Member=Component C30 100nF
+Added Member To Class: ClassName=DDR Member=Component C31 100nF
+Added Member To Class: ClassName=DDR Member=Component C32 100nF
+Added Member To Class: ClassName=DDR Member=Component C33 100nF
+Added Member To Class: ClassName=DDR Member=Component C34 100nF
+Added Member To Class: ClassName=DDR Member=Component C35 100nF
+Added Member To Class: ClassName=DDR Member=Component C36 100nF
+Added Member To Class: ClassName=DDR Member=Component C37 100nF
+Added Member To Class: ClassName=DDR Member=Component C38 100nF
+Added Member To Class: ClassName=DDR Member=Component C39 100nF
+Added Member To Class: ClassName=DDR Member=Component C40 100nF
+Added Member To Class: ClassName=DDR Member=Component C41 100nF
+Added Member To Class: ClassName=DDR Member=Component C42 100nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C43 1nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C44 1nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C45 10pF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C46 100nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C47 1uF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C48 12pF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C49 1uF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C50 100nF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C51 12pF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C52 4.7uF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component C53 100nF
+Added Member To Class: ClassName=RK_VO_Interface Member=Component C54 100nF-0201
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component C56 4.7uF
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component C57 10uF
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component C59 10uF
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component C60 100nF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C61 12pF
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C62 12pF
+Added Member To Class: ClassName=PWOER Member=Component C65 22uF
+Added Member To Class: ClassName=PWOER Member=Component C66 100nF
+Added Member To Class: ClassName=PWOER Member=Component C67 10uF
+Added Member To Class: ClassName=PWOER Member=Component C68 100nF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C70 100nF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C72 1uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C73 1nF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C74 1uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C75 1uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C76 22uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C78 22uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C79 10uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C80 10uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C81 1nF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C82 1uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C83 1uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C84 22uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C86 1uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C87 22uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C88 10uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C89 1nF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C90 1uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C92 22uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C93 10uF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C95 1uF
+Added Member To Class: ClassName=RK_POWER Member=Component C126 100nF
+Added Member To Class: ClassName=RK_POWER Member=Component C128 10uF
+Added Member To Class: ClassName=RK_POWER Member=Component C129 22uF
+Added Member To Class: ClassName=RK_POWER Member=Component C130 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 100nF
+Added Member To Class: ClassName=FLASH_SD Member=Component C? 2.2uF
+Added Member To Class: ClassName=Wi-Fi_BT Member=Component L1 4.7uH
+Added Member To Class: ClassName=PWOER Member=Component L2 3.3uH
+Added Member To Class: ClassName=POWER_PMIC Member=Component L4 470nH
+Added Member To Class: ClassName=POWER_PMIC Member=Component L5 470nH
+Added Member To Class: ClassName=POWER_PMIC Member=Component L6 470nH
+Added Member To Class: ClassName=POWER_PMIC Member=Component L7 470nH
+Added Member To Class: ClassName=POWER_PMIC Member=Component L9 180O
+Added Member To Class: ClassName=RK_FLASH_SD_SARADC Member=Component R7 0O
+Added Member To Class: ClassName=RK_FLASH_SD_SARADC Member=Component R8 22O
+Added Member To Class: ClassName=HDMI Member=Component R14 100kO
+Added Member To Class: ClassName=HDMI Member=Component R16 NC
+Added Member To Class: ClassName=HDMI Member=Component R18 1.8kO
+Added Member To Class: ClassName=HDMI Member=Component R20 1.8kO
+Added Member To Class: ClassName=RK_VO_Interface Member=Component R22 2.2O-0201
+Added Member To Class: ClassName=RK_VO_Interface Member=Component R24 2.2O-0201
+Added Member To Class: ClassName=RK_VO_Interface Member=Component R26 2.2O-0201
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component R31 3.6O
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component R32 3.6O
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component R33 10O
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R34 2.2kO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R35 2.2kO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R36 22O
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R37 1MO
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component R38 0O
+Added Member To Class: ClassName=PWOER Member=Component R39 232kO
+Added Member To Class: ClassName=PWOER Member=Component R40 5.1kO
+Added Member To Class: ClassName=PWOER Member=Component R43 51kO
+Added Member To Class: ClassName=POWER_PMIC Member=Component R44 10kO
+Added Member To Class: ClassName=POWER_PMIC Member=Component R45 0O
+Added Member To Class: ClassName=POWER_PMIC Member=Component R46 10kO
+Added Member To Class: ClassName=POWER_PMIC Member=Component R47 100O
+Added Member To Class: ClassName=POWER_PMIC Member=Component R49 0O
+Added Member To Class: ClassName=POWER_PMIC Member=Component R51 100O
+Added Member To Class: ClassName=POWER_PMIC Member=Component R52 180kO
+Added Member To Class: ClassName=POWER_PMIC Member=Component R54 47kO
+Added Member To Class: ClassName=POWER_PMIC Member=Component R55 120kO
+Added Member To Class: ClassName=POWER_EXTENSION Member=Component R56 100O
+Added Member To Class: ClassName=POWER_EXTENSION Member=Component R59 0O
+Added Member To Class: ClassName=FLASH_SD Member=Component R? 10kO
+Added Member To Class: ClassName=FLASH_SD Member=Component R? NC
+Added Member To Class: ClassName=FLASH_SD Member=Component R? 10kO
+Added Member To Class: ClassName=DDR Member=Component U1 LPDDR4
+Added Member To Class: ClassName=RK_POWER Member=Component U2 RK3566
+Added Member To Class: ClassName=FLASH_SD Member=Component U4 ESD5451N
+Added Member To Class: ClassName=FLASH_SD Member=Component U5 ESD5451N
+Added Member To Class: ClassName=FLASH_SD Member=Component U7 TF-01A_C91145
+Added Member To Class: ClassName=FLASH_SD Member=Component U9 ESD5451N
+Added Member To Class: ClassName=FLASH_SD Member=Component U11 ESD5451N
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component U13 WPN252012H100MT
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component U15 ESD5451N
+Added Member To Class: ClassName=Audio Member=Component U23 ESD5451N
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component X2 24MHz
+Added Rule: Name=Schematic Supply Nets_19

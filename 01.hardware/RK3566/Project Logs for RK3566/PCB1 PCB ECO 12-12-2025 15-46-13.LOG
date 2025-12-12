@@ -1,0 +1,16 @@
+Added Component: Designator=C248(C0402)
+Added Component: Designator=C249(C0402)
+Added Pin To Net: NetName=GND Pin=C248-2
+Added Pin To Net: NetName=GND Pin=C249-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=XIN Pin=C248-1
+Added Pin To Net: NetName=XIN Pin=U20-51
+Added Pin To Net: NetName=XIN Pin=X3-2
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=C249-1
+Added Pin To Net: NetName=XOUT Pin=U20-50
+Added Pin To Net: NetName=XOUT Pin=X3-1
+Added Net: Name=XOUT
+Added Member To Class: ClassName=POWER_PMIC Member=Component C248 12pF
+Added Member To Class: ClassName=POWER_PMIC Member=Component C249 12pF
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component FPC1 AFE03-S31FMA-1H

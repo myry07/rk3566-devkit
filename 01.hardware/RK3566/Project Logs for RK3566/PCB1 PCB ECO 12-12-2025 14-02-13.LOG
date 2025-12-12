@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C239-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C239-2
+Removed Pin From Net: NetName=SDMMC0_D0 Pin=C251-1
+Removed Pin From Net: NetName=VDDA0V9_IMAGE Pin=C253-1
+Removed Pin From Net: NetName=VDDA0V9_IMAGE Pin=C254-2
+Removed Member From Class: ClassName=RK_USB_GPIO Member=C239
+Added Component: Designator=C?(C0201)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C54 100nF-0201
+Added Member To Class: ClassName=RK_USB_GPIO Member=Component C? 100nF-0201

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=WIFI_XTAL_OUT Pin=C48-1
+Removed Pin From Net: NetName=WIFI_XTAL_IN Pin=C51-2
+Removed Pin From Net: NetName=WIFI_XTAL_IN Pin=X1-1
+Removed Pin From Net: NetName=WIFI_XTAL_OUT Pin=X1-3
+Added Pin To Net: NetName=WIFI_XTAL_IN Pin=C48-1
+Added Pin To Net: NetName=WIFI_XTAL_OUT Pin=C51-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=WIFI_XTAL_OUT Pin=X1-1
+Added Pin To Net: NetName=WIFI_XTAL_IN Pin=X1-3

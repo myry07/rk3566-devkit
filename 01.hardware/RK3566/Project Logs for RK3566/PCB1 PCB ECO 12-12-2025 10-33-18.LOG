@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C184 Old Footprint=C0603 New Footprint=C0402
+Change Component Comment : Designator=C184 Old Comment=10uF New Comment=4.7uF
+Add Pin To Net: Unknown Pin: Pin USB2-7

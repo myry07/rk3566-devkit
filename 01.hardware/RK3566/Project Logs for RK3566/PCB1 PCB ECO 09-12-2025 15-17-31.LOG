@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC5V0_USB_HOST Pin=USB?-1
+Removed Pin From Net: NetName=NetR77_2 Pin=USB?-2
+Removed Pin From Net: NetName=NetR80_2 Pin=USB?-3
+Removed Pin From Net: NetName=VDD_GPU Pin=USB?-4
+Removed Pin From Net: NetName=VDD_GPU Pin=USB?-5
+Removed Pin From Net: NetName=VDD_GPU Pin=USB?-6
+Removed Member From Class: ClassName=USB_OTG_AND_HOST Member=USB?
+Change Component Designator: OldDesignator=USB?? NewDesignator=USB2
+Added Pin To Net: NetName=VCC5V0_USB_HOST Pin=USB2-1
+Added Pin To Net: NetName=NetR77_2 Pin=USB2-2
+Added Pin To Net: NetName=NetR80_2 Pin=USB2-3
+Added Pin To Net: NetName=VDD_GPU Pin=USB2-4
+Added Pin To Net: NetName=VDD_GPU Pin=USB2-5
+Added Pin To Net: NetName=VDD_GPU Pin=USB2-6
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists

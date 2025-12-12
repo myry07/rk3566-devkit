@@ -1,0 +1,8 @@
+Added Component: Designator=SW4(SW-SMD_4P-L4.2-W3.3-P2.15-LS5.1)
+Add component (AddParameter): Name = "Symbol"; Value = "PTS815SJK250SMTRLFS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EMMC_D0/FLASH_D0 Pin=SW4-1
+Added Pin To Net: NetName=EMMC_D0/FLASH_D0 Pin=SW4-2
+Added Pin To Net: NetName=GND Pin=SW4-3
+Added Pin To Net: NetName=GND Pin=SW4-4
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=RK_FLASH_SD_SARADC Member=Component SW4 PTS815SJK250SMTRLFS

@@ -1,0 +1,7 @@
+Change Component Comment : Designator=USB2 Old Comment=906-162A1011D10200 New Comment=AF 10.0 HC6.3
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists
+Added Member To Class: ClassName=FLASH_SD Member=Component C164 4.7uF

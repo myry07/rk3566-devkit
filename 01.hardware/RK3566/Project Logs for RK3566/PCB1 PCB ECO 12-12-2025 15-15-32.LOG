@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCCA1V8_PMU Pin=C248-1
+Removed Pin From Net: NetName=VCCA1V8_PMU Pin=C249-2
+Removed Pin From Net: NetName=GND Pin=C250-2
+Removed Pin From Net: NetName=NetC109_1 Pin=C251-2
+Change Component Designator: OldDesignator=2 NewDesignator=U3
+Add Pin To Net: Unknown Pin: Pin USB2-7

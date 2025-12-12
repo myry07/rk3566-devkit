@@ -1,0 +1,5 @@
+Added Component: Designator=R?(R0402)
+Added Pin To Net: NetName=VCCIO_FLASH Pin=R?-1
+Added Pin To Net: NetName=EMMC_D0/FLASH_D0 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=FLASH_SD Member=Component R? 10kO

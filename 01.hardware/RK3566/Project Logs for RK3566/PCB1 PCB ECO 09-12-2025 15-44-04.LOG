@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C126 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C130 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C131 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C137 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C142 Old Footprint=C0402 New Footprint=C0201
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=U28 NewDesignator=U1
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists
+Added Member To Class: ClassName=USB_OTG_AND_HOST Member=Component USB2 AF 10.0 HC6.3

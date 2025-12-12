@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=USB_HOST1_P Pin=U1-1J19
+Removed Pin From Net: NetName=USB_HOST1_N Pin=U1-1J20
+Removed Pin From Net: NetName=USB_OTG0_P Pin=U1-R37
+Removed Pin From Net: NetName=USB_OTG0_N Pin=U1-R38
+Removed Pin From Net: NetName=USB_OTG0_VBUSDET Pin=U1-T38
+Removed Pin From Net: NetName=USB_HOST2_N Pin=U1-V1
+Removed Pin From Net: NetName=USB_HOST2_P Pin=U1-V2
+Removed Member From Class: ClassName=RK_USB_HDMI_GPIO Member=U1
+Added Pin To Net: NetName=USB_HOST1_P Pin=U2-1J19
+Added Pin To Net: NetName=USB_HOST1_N Pin=U2-1J20
+Added Pin To Net: NetName=USB_OTG0_P Pin=U2-R37
+Added Pin To Net: NetName=USB_OTG0_N Pin=U2-R38
+Added Pin To Net: NetName=USB_OTG0_VBUSDET Pin=U2-T38
+Added Pin To Net: NetName=USB_HOST2_N Pin=U2-V1
+Added Pin To Net: NetName=USB_HOST2_P Pin=U2-V2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists

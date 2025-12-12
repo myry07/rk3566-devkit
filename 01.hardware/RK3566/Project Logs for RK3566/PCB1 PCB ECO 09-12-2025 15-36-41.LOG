@@ -1,0 +1,58 @@
+Added Component: Designator=C174(C0402)
+Added Component: Designator=C175(C0402)
+Added Component: Designator=C176(C0402)
+Added Component: Designator=C177(C0402)
+Added Component: Designator=C178(C0603)
+Added Component: Designator=R86(R0402)
+Added Component: Designator=R87(R0402)
+Added Component: Designator=R88(R0402)
+Added Component: Designator=R89(R0402)
+Added Component: Designator=R90(R0402)
+Added Component: Designator=R91(R0402)
+Added Component: Designator=R92(R0402)
+Added Component: Designator=R93(R0402)
+Added Component: Designator=U28(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL)
+Add component (AddParameter): Name = "Symbol"; Value = "SY6280AAC"; VariantName = "[No Variations]"
+Added Component: Designator=U34(IND-SMD_L2.5-W2.0_WPN252012H)
+Added Pin To Net: NetName=VDD_GPU Pin=C174-1
+Added Pin To Net: NetName=VCCIO_FLASH Pin=C174-2
+Added Pin To Net: NetName=VDD_GPU Pin=C175-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C176-2
+Added Pin To Net: NetName=VDD_GPU Pin=C177-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C177-2
+Added Pin To Net: NetName=VDD_GPU Pin=C178-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=C178-2
+Added Pin To Net: NetName=VCC_1V8 Pin=R86-1
+Added Pin To Net: NetName=VCCIO_FLASH Pin=R86-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R88-1
+Added Pin To Net: NetName=VCCIO_FLASH Pin=R88-2
+Added Pin To Net: NetName=VDD_GPU Pin=R89-1
+Added Pin To Net: NetName=VCC1V8_DDR Pin=R90-2
+Added Pin To Net: NetName=VDD_GPU Pin=R91-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=R92-1
+Added Pin To Net: NetName=VCC_DDR Pin=R93-1
+Added Pin To Net: NetName=VCC0V6_DDR Pin=R93-2
+Added Pin To Net: NetName=VDD_GPU Pin=U28-2
+Added Pin To Net: NetName=VCC0V6_DDR Pin=U34-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=FLASH_VOL_SEL Pin=R87-1
+Added Pin To Net: NetName=FLASH_VOL_SEL Pin=R89-2
+Added Net: Name=FLASH_VOL_SEL
+Added Pin To Net: NetName=IND_LX_FB/OUT Pin=C176-1
+Added Pin To Net: NetName=IND_LX_FB/OUT Pin=R91-1
+Added Pin To Net: NetName=IND_LX_FB/OUT Pin=R92-2
+Added Net: Name=IND_LX_FB/OUT
+Added Pin To Net: NetName=NetC175_2 Pin=C175-2
+Added Pin To Net: NetName=NetC175_2 Pin=R90-1
+Added Pin To Net: NetName=NetC175_2 Pin=U28-1
+Added Net: Name=NetC175_2
+Added Pin To Net: NetName=NetU28_3 Pin=U28-3
+Added Pin To Net: NetName=NetU28_3 Pin=U34-1
+Added Net: Name=NetU28_3
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists
+Added Class: Name=POWER_FLASH_POWER_MANAGE
+Added Member To Class: ClassName=DDR Member=Component U1 LPDDR4

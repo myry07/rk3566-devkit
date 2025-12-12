@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCCA_1V8 Pin=C228-2
+Added Pin To Net: NetName=VCCA_1V8 Pin=C229-2
+Added Pin To Net: NetName=VCCA_1V8 Pin=U2-1H4
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=RK_OSC_PLL_PMUO1_2 Member=Component C226 1uF-0201

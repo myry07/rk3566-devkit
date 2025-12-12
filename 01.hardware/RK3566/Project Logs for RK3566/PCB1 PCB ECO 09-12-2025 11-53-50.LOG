@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C158
+Change Component Designator: OldDesignator=C? NewDesignator=C159
+Change Component Designator: OldDesignator=R? NewDesignator=R64
+Change Component Designator: OldDesignator=R? NewDesignator=R65
+Change Component Designator: OldDesignator=R? NewDesignator=R66
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC158_2
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists
+Added Member To Class: ClassName=FLASH_SD Member=Component C158 2.2uF
+Added Member To Class: ClassName=FLASH_SD Member=Component R64 10kO
+Added Member To Class: ClassName=FLASH_SD Member=Component R66 NC

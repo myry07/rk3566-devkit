@@ -1,0 +1,4 @@
+Added Component: Designator=FPC?(FPC-SMD_P0.30-31P_FGS-XJ-H1.0)
+Add component (AddParameter): Name = "Symbol"; Value = "AFE03-S31FMA-1H"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=MIPI_DSI_TP Member=Component FPC? AFE03-S31FMA-1H

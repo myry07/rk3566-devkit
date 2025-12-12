@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=VDD_GPU Pin=C73-1
+Removed Pin From Net: NetName=VDD_GPU Pin=C73-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C76-1
+Removed Pin From Net: NetName=VDD_GPU Pin=C77-1
+Removed Pin From Net: NetName=VDD_GPU Pin=C78-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C79-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C81-1
+Removed Pin From Net: NetName=VDD_GPU Pin=C81-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C126-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C127-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C128-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C129-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C137-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C138-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C139-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C140-2
+Removed Pin From Net: NetName=VDD_GPU Pin=C141-2
+Removed Pin From Net: NetName=VDD_GPU Pin=L3-2
+Removed Pin From Net: NetName=VDD_GPU Pin=L4-1
+Removed Pin From Net: NetName=VDD_GPU Pin=R47-1
+Removed Pin From Net: NetName=VDD_GPU Pin=R47-2
+Removed Pin From Net: NetName=VDD_GPU Pin=R48-1
+Removed Pin From Net: NetName=VDD_GPU Pin=R48-2
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1G15
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1H14
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1H15
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1J14
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1J15
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1L8
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1L9
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1M7
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1M8
+Removed Pin From Net: NetName=VDD_GPU Pin=U2-1M9
+Removed Pin From Net: NetName=VDD_GPU Pin=U20-8
+Removed Pin From Net: NetName=VDD_GPU Pin=U20-64
+Change Component Comment : Designator=C126 Old Comment=100nF New Comment=100nF-0201
+Change Component Comment : Designator=C130 Old Comment=100nF New Comment=100nF-0201
+Change Component Comment : Designator=C131 Old Comment=100nF New Comment=100nF-0201
+Change Component Comment : Designator=C137 Old Comment=100nF New Comment=100nF-0201
+Change Component Comment : Designator=C142 Old Comment=100nF New Comment=100nF-0201
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=VDD_GPU New Net Name=GND
+Add Net: Net with name "VCC3V3_PMU" already exists
+Add Net: Net with name "VCC3V3_SYS" already exists
+Add Net: Net with name "VCC5V0_SYS" already exists
+Add Net: Net with name "VCCA1V8_PMU" already exists
+Add Net: Net with name "VCCIO_WL" already exists
+Added Pin To Net: NetName=VDD_GPU Pin=C73-1
+Added Pin To Net: NetName=VDD_GPU Pin=C73-2
+Added Pin To Net: NetName=VDD_GPU Pin=C76-1
+Added Pin To Net: NetName=VDD_GPU Pin=C77-1
+Added Pin To Net: NetName=VDD_GPU Pin=C137-2
+Added Pin To Net: NetName=VDD_GPU Pin=C138-2
+Added Pin To Net: NetName=VDD_GPU Pin=C139-2
+Added Pin To Net: NetName=VDD_GPU Pin=C140-2
+Added Pin To Net: NetName=VDD_GPU Pin=C141-2
+Added Pin To Net: NetName=VDD_GPU Pin=L4-1
+Added Pin To Net: NetName=VDD_GPU Pin=R47-1
+Added Pin To Net: NetName=VDD_GPU Pin=R47-2
+Added Pin To Net: NetName=VDD_GPU Pin=U2-1L8
+Added Pin To Net: NetName=VDD_GPU Pin=U2-1L9
+Added Pin To Net: NetName=VDD_GPU Pin=U2-1M7
+Added Pin To Net: NetName=VDD_GPU Pin=U2-1M8
+Added Pin To Net: NetName=VDD_GPU Pin=U2-1M9
+Added Pin To Net: NetName=VDD_GPU Pin=U20-8
+Added Net: Name=VDD_GPU
+Added Pin To Net: NetName=VDD_NPU Pin=C78-2
+Added Pin To Net: NetName=VDD_NPU Pin=C79-2
+Added Pin To Net: NetName=VDD_NPU Pin=C81-1
+Added Pin To Net: NetName=VDD_NPU Pin=C81-2
+Added Pin To Net: NetName=VDD_NPU Pin=C126-2
+Added Pin To Net: NetName=VDD_NPU Pin=C127-2
+Added Pin To Net: NetName=VDD_NPU Pin=C128-2
+Added Pin To Net: NetName=VDD_NPU Pin=C129-2
+Added Pin To Net: NetName=VDD_NPU Pin=L3-2
+Added Pin To Net: NetName=VDD_NPU Pin=R48-1
+Added Pin To Net: NetName=VDD_NPU Pin=R48-2
+Added Pin To Net: NetName=VDD_NPU Pin=U2-1G15
+Added Pin To Net: NetName=VDD_NPU Pin=U2-1H14
+Added Pin To Net: NetName=VDD_NPU Pin=U2-1H15
+Added Pin To Net: NetName=VDD_NPU Pin=U2-1J14
+Added Pin To Net: NetName=VDD_NPU Pin=U2-1J15
+Added Pin To Net: NetName=VDD_NPU Pin=U20-64
+Added Net: Name=VDD_NPU
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24

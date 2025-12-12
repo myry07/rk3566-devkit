@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SPK_OUTP Pin=U22-1
+Removed Pin From Net: NetName=SPK_OUTN Pin=U22-2
+Removed Pin From Net: NetName=GND Pin=U22-3
+Removed Pin From Net: NetName=GND Pin=U22-4
+Removed Pin From Net: NetName=MIC1P Pin=U25-1
+Removed Pin From Net: NetName=GND Pin=U25-2
+Removed Pin From Net: NetName=GND Pin=U25-3
+Removed Pin From Net: NetName=GND Pin=U25-4
+Removed Member From Class: ClassName=Audio_AND_HPJ Member=U22
+Removed Member From Class: ClassName=Audio_AND_HPJ Member=U25
+Added Component: Designator=CN?(CONN-SMD_2P-P1.25-HC-1.25-2PWT)
+Add component (AddParameter): Name = "Symbol"; Value = "HC-1.25-2PWT"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=PWOER Member=Component CN? HC-1.25-2PWT

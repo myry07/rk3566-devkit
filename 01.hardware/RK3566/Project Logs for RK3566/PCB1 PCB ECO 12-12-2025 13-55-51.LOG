@@ -1,0 +1,4 @@
+Added Component: Designator=C?(C0201)
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Member To Class: ClassName=RK_USB_GPIO Member=Component C234 100nF-0201
+Added Member To Class: ClassName=RK_MIPI_HDMI Member=Component C? 100nF-0201

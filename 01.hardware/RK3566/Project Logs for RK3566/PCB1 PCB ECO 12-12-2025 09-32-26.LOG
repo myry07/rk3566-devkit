@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC5V0_USB_OTG Pin=Q5-2
+Removed Pin From Net: NetName=NetF1_1 Pin=Q6-2
+Removed Member From Class: ClassName=USB_OTG_AND_HOST Member=Q5
+Removed Member From Class: ClassName=USB_OTG_AND_HOST Member=Q6
+Added Component: Designator=Q3(SOT-23_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q4(SOT-23_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Pin To Net: NetName=VCC5V0_USB_OTG Pin=Q3-2
+Added Pin To Net: NetName=NetF1_1 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-3
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R73-2
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=PWOER Member=Component CN2 HC-1.25-2PWT
+Added Member To Class: ClassName=USB_OTG_AND_HOST Member=Component Q3 MMBT5401(RANGE:200-300)
+Added Member To Class: ClassName=USB_OTG_AND_HOST Member=Component Q4 CJ2301 S1

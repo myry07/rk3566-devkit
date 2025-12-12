@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C239-2
+Added Pin To Net: NetName=NetR108_2 Pin=C239-2
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=NetR108_2 New Net Name=NetC239_2
+Added Member To Class: ClassName=RK_USB_GPIO Member=Component C239 100nF-0201
