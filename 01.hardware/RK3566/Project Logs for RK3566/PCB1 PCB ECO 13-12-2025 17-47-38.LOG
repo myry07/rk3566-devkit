@@ -1,0 +1,7 @@
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Differential Pair: Number of nets in differential pair HDMI_TXCLK_PORT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HT is 1 instead of 2
+Added Differential Pair: Name=MIPI_DSI_1
+Added Differential Pair: Name=MIPI_DSI_2
+Added Differential Pair: Name=MIPI_DSI_3
+Added Differential Pair: Name=MIPI_DSI_CLK

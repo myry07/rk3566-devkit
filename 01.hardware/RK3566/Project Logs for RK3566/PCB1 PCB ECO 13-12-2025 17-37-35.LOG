@@ -1,0 +1,6 @@
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=H0_N New Net Name=H_N
+Change Net Name : Old Net Name=H0_P New Net Name=H_P
+Add Differential Pair: Number of nets in differential pair HDMI_TX0_PORT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_TXCLK_PORT is 1 instead of 2
+Added Differential Pair: Name=H

@@ -1,0 +1,20 @@
+Added Component: Designator=C250(C0402)
+Added Pin To Net: NetName=GND Pin=C250-1
+Added Pin To Net: NetName=VCC5V_HDMI_TX Pin=C250-2
+Added Pin To Net: NetName=GND Pin=CN1-17
+Added Pin To Net: NetName=VCC5V_HDMI_TX Pin=CN1-18
+Added Pin To Net: NetName=GND Pin=CN1-20
+Added Pin To Net: NetName=GND Pin=CN1-21
+Added Pin To Net: NetName=GND Pin=CN1-22
+Added Pin To Net: NetName=GND Pin=CN1-23
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=NetR22_2 New Net Name=H2_P
+Change Net Name : Old Net Name=NetR23_2 New Net Name=H2_N
+Change Net Name : Old Net Name=NetR24_2 New Net Name=H1_P
+Change Net Name : Old Net Name=NetR25_2 New Net Name=H1_N
+Change Net Name : Old Net Name=NetR26_2 New Net Name=H0_P
+Change Net Name : Old Net Name=NetR27_2 New Net Name=H0_N
+Change Net Name : Old Net Name=NetR28_2 New Net Name=HC_P
+Change Net Name : Old Net Name=NetR29_2 New Net Name=HC_N
+Add Differential Pair: Number of nets in differential pair HDMI_TX0_PORT is 1 instead of 2
+Added Member To Class: ClassName=HDMI Member=Component C250 100nF

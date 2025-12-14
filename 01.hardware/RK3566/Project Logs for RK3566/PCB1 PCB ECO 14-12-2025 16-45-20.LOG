@@ -1,0 +1,19 @@
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=LPDDR4_CLKN_A New Net Name=LPDDR4_CLK_A_N
+Change Net Name : Old Net Name=LPDDR4_CLKN_B New Net Name=LPDDR4_CLK_B_N
+Change Net Name : Old Net Name=LPDDR4_CLKP_A New Net Name=LPDDR4_CLK_A_P
+Change Net Name : Old Net Name=LPDDR4_CLKP_B New Net Name=LPDDR4_CLK_B_P
+Change Net Name : Old Net Name=LPDDR4_DQS0N_A New Net Name=LPDDR4_DQS0_A_N
+Change Net Name : Old Net Name=LPDDR4_DQS0N_B New Net Name=LPDDR4_DQS0_B_N
+Change Net Name : Old Net Name=LPDDR4_DQS0P_A New Net Name=LPDDR4_DQS0_A_P
+Change Net Name : Old Net Name=LPDDR4_DQS0P_B New Net Name=LPDDR4_DQS0_B_P
+Change Net Name : Old Net Name=LPDDR4_DQS1N_A New Net Name=LPDDR4_DQS1_A_N
+Change Net Name : Old Net Name=LPDDR4_DQS1N_B New Net Name=LPDDR4_DQS1_B_N
+Change Net Name : Old Net Name=LPDDR4_DQS1P_A New Net Name=LPDDR4_DQS1_A_P
+Change Net Name : Old Net Name=LPDDR4_DQS1P_B New Net Name=LPDDR4_DQS1_B_P
+Added Differential Pair: Name=LPDDR4_CLK_A
+Added Differential Pair: Name=LPDDR4_CLK_B
+Added Differential Pair: Name=LPDDR4_DQS0_A
+Added Differential Pair: Name=LPDDR4_DQS0_B
+Added Differential Pair: Name=LPDDR4_DQS1_A
+Added Differential Pair: Name=LPDDR4_DQS1_B

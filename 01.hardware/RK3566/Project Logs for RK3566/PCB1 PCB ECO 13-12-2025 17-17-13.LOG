@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=MIPI_DSI_CLKN Pin=U2-1U11
+Removed Pin From Net: NetName=MIPI_DSI_CLKP Pin=U2-1V11
+Removed Pin From Net: NetName=MIPI_DSI_3N Pin=U2-AP20
+Removed Pin From Net: NetName=MIPI_DSI_2P Pin=U2-AP21
+Removed Pin From Net: NetName=MIPI_DSI_1N Pin=U2-AP23
+Removed Pin From Net: NetName=MIPI_DSI_0P Pin=U2-AP24
+Removed Pin From Net: NetName=MIPI_DSI_3P Pin=U2-AR20
+Removed Pin From Net: NetName=MIPI_DSI_2N Pin=U2-AR21
+Removed Pin From Net: NetName=MIPI_DSI_1P Pin=U2-AR23
+Removed Pin From Net: NetName=MIPI_DSI_0N Pin=U2-AR24
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Net: Net with name "MIPI_DSI_0N" already exists
+Add Net: Net with name "MIPI_DSI_0P" already exists
+Add Net: Net with name "MIPI_DSI_1N" already exists
+Add Net: Net with name "MIPI_DSI_1P" already exists
+Add Net: Net with name "MIPI_DSI_2N" already exists
+Add Net: Net with name "MIPI_DSI_2P" already exists
+Add Net: Net with name "MIPI_DSI_3N" already exists
+Add Net: Net with name "MIPI_DSI_3P" already exists
+Add Net: Net with name "MIPI_DSI_CLKN" already exists
+Add Net: Net with name "MIPI_DSI_CLKP" already exists
+Add Differential Pair: Net(s) Not Found in Differential Pair MIPI_DSI_0 : Positive Net [MIPI_DSI_0_P] & Negative Net [MIPI_DSI_0_N] in current PCB document

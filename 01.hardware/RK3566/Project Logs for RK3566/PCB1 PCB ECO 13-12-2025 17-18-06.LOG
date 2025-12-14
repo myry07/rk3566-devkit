@@ -1,0 +1,22 @@
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=MIPI_DSI_0_N Pin=U2-AR24
+Added Net: Name=MIPI_DSI_0_N
+Added Pin To Net: NetName=MIPI_DSI_0_P Pin=U2-AP24
+Added Net: Name=MIPI_DSI_0_P
+Added Pin To Net: NetName=MIPI_DSI_1_N Pin=U2-AP23
+Added Net: Name=MIPI_DSI_1_N
+Added Pin To Net: NetName=MIPI_DSI_1_P Pin=U2-AR23
+Added Net: Name=MIPI_DSI_1_P
+Added Pin To Net: NetName=MIPI_DSI_2_N Pin=U2-AR21
+Added Net: Name=MIPI_DSI_2_N
+Added Pin To Net: NetName=MIPI_DSI_2_P Pin=U2-AP21
+Added Net: Name=MIPI_DSI_2_P
+Added Pin To Net: NetName=MIPI_DSI_3_N Pin=U2-AP20
+Added Net: Name=MIPI_DSI_3_N
+Added Pin To Net: NetName=MIPI_DSI_3_P Pin=U2-AR20
+Added Net: Name=MIPI_DSI_3_P
+Added Pin To Net: NetName=MIPI_DSI_CLK_N Pin=U2-1U11
+Added Net: Name=MIPI_DSI_CLK_N
+Added Pin To Net: NetName=MIPI_DSI_CLK_P Pin=U2-1V11
+Added Net: Name=MIPI_DSI_CLK_P
+Added Differential Pair: Name=MIPI_DSI_0

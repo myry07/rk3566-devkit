@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=HDMI_TX0_N Pin=R28-1
+Removed Pin From Net: NetName=HDMI_TX_CLK_PORT_N Pin=R29-1
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=HDMI_TX_CLK_PORT_N New Net Name=HDMI_TXCLK_P
+Added Pin To Net: NetName=HDMI_TXCLKN_PORT Pin=R29-1
+Added Net: Name=HDMI_TXCLKN_PORT
+Added Pin To Net: NetName=HDMI_TXCLKP_PORT Pin=R28-1
+Added Net: Name=HDMI_TXCLKP_PORT
+Add Differential Pair: Number of nets in differential pair HDMI_TX0_PORT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_TX_CEC_PORT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_TXCLK_PORT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_TXCLK is 1 instead of 2

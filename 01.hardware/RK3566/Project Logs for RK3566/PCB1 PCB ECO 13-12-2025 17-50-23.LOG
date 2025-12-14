@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=HDMI_CLK_P Pin=R29-1
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Differential Pair: Number of nets in differential pair HDMI_CLK is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_TX0_PORT is 1 instead of 2

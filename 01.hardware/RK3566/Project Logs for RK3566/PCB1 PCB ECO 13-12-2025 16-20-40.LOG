@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GPIO3_A1 Pin=LED3-2
+Added Component: Designator=R117(R0402)
+Added Pin To Net: NetName=GPIO3_A1 Pin=R117-1
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R117-2
+Added Net: Name=NetLED3_2
+Added Member To Class: ClassName=RK_USB_GPIO Member=Component R117 10kO

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=HT+ Pin=R26-1
+Removed Pin From Net: NetName=H_P Pin=R27-1
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Add Net: Net with name "HT+" already exists
+Added Pin To Net: NetName=HT- Pin=R27-1
+Added Net: Name=HT-
+Add Differential Pair: Number of nets in differential pair HDMI_TXCLK_PORT is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HT+ is 1 instead of 2
