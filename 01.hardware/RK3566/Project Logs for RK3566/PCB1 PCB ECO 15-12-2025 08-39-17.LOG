@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=GND Pin=CN2-1
+Removed Pin From Net: NetName=+12V Pin=CN2-2
+Removed Pin From Net: NetName=GND Pin=CN2-3
+Removed Pin From Net: NetName=GND Pin=CN2-4
+Removed Member From Class: ClassName=PWOER Member=CN2
+Added Component: Designator=C251(C0603)
+Added Component: Designator=R118(R0402)
+Added Component: Designator=R119(R0402)
+Added Component: Designator=R120(R0402)
+Added Component: Designator=U22(ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP)
+Add component (AddParameter): Name = "Symbol"; Value = "CH224K"; VariantName = "[No Variations]"
+Added Component: Designator=USB4(USB-C-SMD_TYPE-C-6PIN-2MD-073)
+Added Pin To Net: NetName=GND Pin=C251-1
+Added Pin To Net: NetName=GND Pin=R118-1
+Added Pin To Net: NetName=GND Pin=U22-11
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=+12 Pin=R119-2
+Added Pin To Net: NetName=+12 Pin=R120-1
+Added Pin To Net: NetName=+12 Pin=USB4-2
+Added Pin To Net: NetName=+12 Pin=USB4-11
+Added Net: Name=+12
+Added Pin To Net: NetName=CC1 Pin=U22-7
+Added Pin To Net: NetName=CC1 Pin=USB4-4
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=U22-6
+Added Pin To Net: NetName=CC2 Pin=USB4-10
+Added Net: Name=CC2
+Added Pin To Net: NetName=NetC251_2 Pin=C251-2
+Added Pin To Net: NetName=NetC251_2 Pin=R119-1
+Added Pin To Net: NetName=NetC251_2 Pin=U22-1
+Added Net: Name=NetC251_2
+Added Pin To Net: NetName=NetR118_2 Pin=R118-2
+Added Pin To Net: NetName=NetR118_2 Pin=U22-9
+Added Net: Name=NetR118_2
+Added Pin To Net: NetName=NetR120_2 Pin=R120-2
+Added Pin To Net: NetName=NetR120_2 Pin=U22-8
+Added Net: Name=NetR120_2
+Added Pin To Net: NetName=NetU22_4 Pin=U22-4
+Added Pin To Net: NetName=NetU22_4 Pin=U22-5
+Added Net: Name=NetU22_4
+Added Pin To Net: NetName=NetUSB4_1 Pin=USB4-1
+Added Pin To Net: NetName=NetUSB4_1 Pin=USB4-12
+Added Pin To Net: NetName=NetUSB4_1 Pin=USB4-13
+Added Pin To Net: NetName=NetUSB4_1 Pin=USB4-13
+Added Pin To Net: NetName=NetUSB4_1 Pin=USB4-14
+Added Pin To Net: NetName=NetUSB4_1 Pin=USB4-14
+Added Net: Name=NetUSB4_1
+Added Member To Class: ClassName=PWOER Member=Component C251 10uF
+Added Member To Class: ClassName=PWOER Member=Component R118 24kO
+Added Member To Class: ClassName=PWOER Member=Component R119 1kO
+Added Member To Class: ClassName=PWOER Member=Component R120 10kO
+Added Member To Class: ClassName=PWOER Member=Component U22 CH224K
+Added Member To Class: ClassName=PWOER Member=Component USB4 TYPE-C 16PIN 2MD(073)
+Added Rule: Name=Schematic Supply Nets_30

@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TCHWCGBL
 
 [Document4]
+DocumentPath=pcb\PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PKJVEKYN
+
+[Document5]
 DocumentPath=sch\RK3566_DDR_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEUQSQRE
 
-[Document5]
+[Document6]
 DocumentPath=sch\Audio_AND_HPJ.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSGQDJVK
 
-[Document6]
+[Document7]
 DocumentPath=sch\DEBUG_AND_GPIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBEPWYXN
 
-[Document7]
+[Document8]
 DocumentPath=sch\Overview.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,23 +184,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGVXZYNR
-
-[Document8]
-DocumentPath=pcb\PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ISWVUJBN
 
 [Document9]
 DocumentPath=sch\RK3566_DDR_PHY.Harness
