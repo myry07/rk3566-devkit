@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=HDMITX_SCL Pin=U2-AR12
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Change Net Name : Old Net Name=NetR77_2 New Net Name=USB_H2_N
+Change Net Name : Old Net Name=NetR80_2 New Net Name=USB_H2_P
+Add Net: Net with name "HDMITX_SCL" already exists
+Added Differential Pair: Name=USB_H2
+Added Member To Class: ClassName=HDMI Member=Component D1 ESD5344D-10/TR

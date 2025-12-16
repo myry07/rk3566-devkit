@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=USB_HOST1_N Pin=USB3-5
+Removed Pin From Net: NetName=USB_HOST1_P Pin=USB3-6
+Removed Pin From Net: NetName=USB_HOST1_N Pin=USB3-7
+Removed Pin From Net: NetName=USB_HOST1_P Pin=USB3-8
+Added Component: Designator=R121(R0402)
+Added Component: Designator=R122(R0402)
+Added Pin To Net: NetName=USB_HOST1_N Pin=R121-1
+Added Pin To Net: NetName=USB_HOST1_P Pin=R122-1
+Added Pin To Net: NetName=HDMITX_SCL Pin=U2-AR12
+Change Net Name : Old Net Name=USB_OTG_DN New Net Name=USB_OTG_D_N
+Change Net Name : Old Net Name=USB_OTG_DP New Net Name=USB_OTG_D_P
+Added Pin To Net: NetName=USB_H1_N Pin=R121-2
+Added Pin To Net: NetName=USB_H1_N Pin=USB3-5
+Added Pin To Net: NetName=USB_H1_N Pin=USB3-7
+Added Net: Name=USB_H1_N
+Added Pin To Net: NetName=USB_H1_P Pin=R122-2
+Added Pin To Net: NetName=USB_H1_P Pin=USB3-6
+Added Pin To Net: NetName=USB_H1_P Pin=USB3-8
+Added Net: Name=USB_H1_P
+Added Differential Pair: Name=USB_H1
+Added Differential Pair: Name=USB_OTG_D
+Added Member To Class: ClassName=USB_OTG_AND_HOST Member=Component R121 2.2O
+Added Member To Class: ClassName=USB_OTG_AND_HOST Member=Component R122 2.2O
