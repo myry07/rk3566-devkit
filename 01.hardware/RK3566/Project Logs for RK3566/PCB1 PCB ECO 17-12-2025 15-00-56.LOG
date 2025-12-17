@@ -1,0 +1,72 @@
+Change Component Comment : Designator=C43 Old Comment=1nF New Comment=NC
+Change Component Comment : Designator=C44 Old Comment=1nF New Comment=NC
+Added Component: Designator=C252(C0402)
+Added Component: Designator=C253(C0402)
+Added Component: Designator=R123(R0402)
+Added Component: Designator=R124(R0402)
+Added Component: Designator=U25(DFN1006-2L-BI)
+Add component (AddParameter): Name = "Symbol"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=U27(CONN-SMD_2P-P2.50_HCTL_HC-XH-2ALT)
+Add component (AddParameter): Name = "Symbol"; Value = "ZX-XH2.54-2PLT"; VariantName = "[No Variations]"
+Added Component: Designator=U44(HDR-TH_6P-P2.54-V-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HX%2520PZ2.54-1x6P%2520ZZ/34444552.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HX PZ2.54-1x6P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x6P ??:2.54mm ?? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HX PZ2.54-1x6P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplementary Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C32713272"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HX PZ2.54-1X6P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "1kV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C252-1
+Added Pin To Net: NetName=GND Pin=C253-1
+Added Pin To Net: NetName=MIC1P Pin=C253-2
+Added Pin To Net: NetName=VCCIO_ACODEC Pin=R123-1
+Added Pin To Net: NetName=MIC1P Pin=R124-1
+Added Pin To Net: NetName=GND Pin=U25-1
+Added Pin To Net: NetName=MIC1P Pin=U25-2
+Added Pin To Net: NetName=GND Pin=U27-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=U27-2
+Added Pin To Net: NetName=VCC3V3_SYS Pin=U40-5
+Added Pin To Net: NetName=VCC3V3_SYS Pin=U40-6
+Added Pin To Net: NetName=GND Pin=U44-1
+Added Pin To Net: NetName=GND Pin=U44-2
+Added Pin To Net: NetName=GND Pin=U44-3
+Added Pin To Net: NetName=GND Pin=U44-4
+Added Pin To Net: NetName=GND Pin=U44-5
+Added Pin To Net: NetName=GND Pin=U44-6
+Add Pin To Net: Unknown Pin: Pin USB2-7
+Added Pin To Net: NetName=NetC252_2 Pin=C252-2
+Added Pin To Net: NetName=NetC252_2 Pin=R123-2
+Added Pin To Net: NetName=NetC252_2 Pin=R124-2
+Added Net: Name=NetC252_2
+Added Pin To Net: NetName=NetU27_3 Pin=U27-3
+Added Pin To Net: NetName=NetU27_3 Pin=U27-4
+Added Net: Name=NetU27_3
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component C252 1uF
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component C253 220pF
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component R123 100O
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component R124 2.2kO
+Added Member To Class: ClassName=Audio_AND_HPJ Member=Component U25 ESD5451N
+Added Member To Class: ClassName=DEBUG_AND_GPIO Member=Component U27 ZX-XH2.54-2PLT
+Added Member To Class: ClassName=DEBUG_AND_GPIO Member=Component U44 HX PZ2.54-1x6P ZZ
