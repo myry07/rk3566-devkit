@@ -1,6 +1,10 @@
 # rk3566-devkit
 
 <p align="center">
+    <img src="01.hardware/d92ae66afd83ee7c5135d71f062e8163.jpg" alt="f" width="60%"/>
+</p>
+
+<p align="center">
     <img src="01.hardware/f.png" alt="f" width="60%"/>
 </p>
 
